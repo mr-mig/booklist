@@ -226,11 +226,10 @@ TODO:
 - [ ] Peopleware: Productive Projects and Teams (Second Edition) [📖]()
 - [ ] Async Remote [📖](http://blog.arkency.com/async-remote/) 
 
-## Религиозные артефакты литературы
-- [ ] Энума Элиш [📖]() 
-- [ ] Махабхарата [📖]() 
-- [ ] Авеста [📖]() 
-- [ ] Книга Мертвых [📖]() 
-- [ ] Рамаяна [📖]() 
-- [ ] Желязны - бог света [📖]() 
-- [ ] Поломничество в страну востока, Гессе [📖]() 
+## Religious artefacts
+- [ ] Enuma Elish [📖](https://www.goodreads.com/book/show/233420.Enuma_Elish) 
+- [ ] The Mahabharatha [📖](https://www.goodreads.com/book/show/10967733-the-mahabharatha) 
+- [ ] Avesta [📖](http://www.avesta.org/) 
+- [ ] The Book of the Dead [📖](https://www.goodreads.com/book/show/790550.The_Egyptian_Book_of_the_Dead) 
+- [ ] Ramayana [📖](https://www.goodreads.com/book/show/141152.Ramayana) 
+- [ ] Journey to the East [📖](https://www.goodreads.com/book/show/13519.The_Journey_to_the_East) 
