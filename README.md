@@ -3,7 +3,7 @@ All categories are pretty high level and may change anytime.
 
 If you have something to suggest feel free to make a PR.
 
-- [📖] - is a link to goodreads/amazon/etc
+- 📖 - is a link to goodreads/amazon/etc
 **bold books** are high-priority books to be read first
 
 # Books
