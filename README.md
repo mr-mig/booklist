@@ -7,6 +7,14 @@ If you have something to suggest feel free to make a PR.
 - ⭐️ high-priority books to be read first
 - ‼️ books you do not want to miss
 
+----
+
+TODO: 
+
+- [ ] Add books from the shelve
+- [ ] Add read books 
+- [ ] Add all links
+
 # Books
 
 ## Uncategorized 
@@ -140,10 +148,10 @@ If you have something to suggest feel free to make a PR.
 - [ ] ⭐️ **Type Driven Development with Idris** [📖](https://www.manning.com/books/type-driven-development-with-idris)  
 - [ ] ⭐️ **Growing Object Oriented Software with Tests** [📖](http://www.growing-object-oriented-software.com/ )  
 - [ ] ⭐️ **Production Ready Microservices** [📖]() 
-- [x] ‼️ Release it! [📖]() 
+- [x] ‼️ **Release it**! [📖]() 
 - [ ] Building Microservices [📖]() 
 - [ ] Clojure for Brave and True [📖]() 
-- [x] ‼️ Practical Object-Oriented Desing with Ruby [📖](http://www.poodr.com/)
+- [x] ‼️ **Practical Object-Oriented Desing with Ruby** [📖](http://www.poodr.com/)
 
 ## Career, Skill Acquisition, Personal Growth
 - [ ] ⭐️ **From Novice to Expert** [📖]() 
