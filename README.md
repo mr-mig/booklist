@@ -5,6 +5,7 @@ If you have something to suggest feel free to make a PR.
 
 - 📖 is a link to goodreads/amazon/etc
 - ⭐️ high-priority books to be read first
+- ‼️ books you do not want to miss
 
 # Books
 
@@ -43,7 +44,7 @@ If you have something to suggest feel free to make a PR.
 - [ ] ⭐️ **Willpower Instinct**  [📖](https://www.goodreads.com/book/show/10865206-the-willpower-instinct) 
 - [ ] Mind Power Into the 21st Century [📖](https://www.goodreads.com/book/show/180089.Mind_Power_Into_the_21st_Century) 
 - [ ] The Organized Mind [📖]() 
-- [ ] ⭐️ **How to win friends and influence people** [📖](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People)   
+- [ ] ⭐️️️ ‼️ **How to win friends and influence people** [📖](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People)   
 - [ ] ⭐️ **Mindset: The New Psychology of Success** [📖](https://www.goodreads.com/book/show/40745.Mindset)
 - [ ] ⭐️ **Parenting with Presence** [📖]() 
 - [ ] ⭐️ **Search Inside Yourself** [📖]() 
@@ -60,11 +61,10 @@ If you have something to suggest feel free to make a PR.
 - [ ] Reinvent yourself [📖]()
 - [ ] ⭐️ **Are your lights on?** [📖]() 
 - [ ] Joy Inc. [📖]() 
-- [ ] Are your lights on?   [📖]() 
 - [ ] Hard Thing About Hard Things [📖]() 
 
 ## UX & Design
-- [ ] ⭐️ **The Design of Everyday Things** [📖]() 
+- [ ] ⭐️ ‼️ **The Design of Everyday Things** [📖]() 
 - [ ] ⭐️ **Non-Designer's Design Book, The, 4th Edition** [📖]() 
 - [ ] Designing Web Interfaces. Principles and Patterns for Rich Interactions [📖]() 
 - [ ] UX for lean startups [📖]() 
@@ -87,7 +87,7 @@ If you have something to suggest feel free to make a PR.
 - [ ] The annotated Turing [📖](http://theannotatedturing.com/) 
 - [ ] Entropy [📖](http://pages.physics.cornell.edu/~sethna/StatMech/EntropyOrderParametersComplexity.pdf)  
 - [ ] ⭐️ **How Complex Systems Fail** [📖]()   
-- [ ] ⭐️ **The Sciences of the Artificial, Third Edition** [📖]()   
+- [ ] ⭐️ ‼️ **The Sciences of the Artificial, Third Edition** [📖]()   
 - [ ] Thinking in Systems by Donella H. Meadows [📖]() 
 - [ ] The art and craft of problem solving [📖]() 
 
@@ -99,12 +99,12 @@ If you have something to suggest feel free to make a PR.
 - [ ] ⭐️ **The nature of software development** [📖](https://pragprog.com/book/rjnsd/the-nature-of-software-development)
 - [ ] The Inmates are Running the Asylum [📖]() 
 - [ ] The Algorithm Design Manual 2nd Edition [📖]() 
-- [ ] ⭐️ **Structure and Implementation of Computer Programs** [📖]() 
+- [ ] ⭐️ ‼️ **Structure and Implementation of Computer Programs** [📖]() 
 - [ ] Resilient Web Design [📖](https://resilientwebdesign.com) 
-- [ ] ⭐️ **Site Reliability Engineering** [📖](http://shop.oreilly.com/product/0636920041528.do) 
+- [ ] ⭐️ ‼️ **Site Reliability Engineering** [📖](http://shop.oreilly.com/product/0636920041528.do) 
 - [ ] Code: The Hidden Language of Computer Hardware and Software [📖]() 
 - [ ] JavaScript: The Good Parts [📖]() 
-- [ ] ⭐️ **Working Effectively with Legacy Code** [📖]()  
+- [ ] ⭐️ ‼️ **Working Effectively with Legacy Code** [📖]()  
 - [ ] Patterns of Enterprise Application Architecture [📖]() 
 - [ ] Enterprise Integration Patterns [📖]() 
 - [ ] Programming Collective Intelligence: Building Smart Web 2.0 Applications [📖]() 
@@ -120,7 +120,7 @@ If you have something to suggest feel free to make a PR.
 - [ ] ⭐️ **Software Engineering: A Practitioner's Approach** [📖](https://www.goodreads.com/book/show/142783.Software_Engineering) 
 - [ ] The Art of Readable Code: Simple and Practical Techniques for Writing Better Code [📖]() 
 - [ ] ⭐️ **SWEBOK** [📖]() 
-- [ ] ️⭐️ **Grokking Algorithms** [📖]()  
+- [ ] ️⭐️ ‼️ **Grokking Algorithms** [📖]()  
 - [ ] Code Simplicity [📖](http://shop.oreilly.com/product/0636920022251.do) 
 - [ ] Category Theory [📖](https://www.goodreads.com/book/show/2047855.Category_Theory)  
 - [ ] Concurrent ML [📖]()  
@@ -140,10 +140,10 @@ If you have something to suggest feel free to make a PR.
 - [ ] ⭐️ **Type Driven Development with Idris** [📖](https://www.manning.com/books/type-driven-development-with-idris)  
 - [ ] ⭐️ **Growing Object Oriented Software with Tests** [📖](http://www.growing-object-oriented-software.com/ )  
 - [ ] ⭐️ **Production Ready Microservices** [📖]() 
-- [ ] Release it! [📖]() 
+- [x] ‼️ Release it! [📖]() 
 - [ ] Building Microservices [📖]() 
 - [ ] Clojure for Brave and True [📖]() 
-- [ ] Practical Object-Oriented Desing with Ruby [📖](http://www.poodr.com/)
+- [x] ‼️ Practical Object-Oriented Desing with Ruby [📖](http://www.poodr.com/)
 
 ## Career, Skill Acquisition, Personal Growth
 - [ ] ⭐️ **From Novice to Expert** [📖]() 
@@ -168,6 +168,7 @@ If you have something to suggest feel free to make a PR.
 - [ ] Algorithms to live by [📖]() 
 - [ ] Daily Rituals [📖]() 
 - [ ] ️⭐️ **Productivity Handbook** [📖](https://www.dropbox.com/s/kf39sos23qtwzax/Prouductivity%20Handbook.pdf?dl=0) 
+- [x] ‼️ **Mini Habits** [📖](https://www.goodreads.com/book/show/20567918-mini-habits) 
 
 # Finances
 - [ ] Руководство разумного инвестора Богла  [📖]()
@@ -180,8 +181,8 @@ If you have something to suggest feel free to make a PR.
 - [ ] The Way Of The Superior Man [📖]() 
 - [ ] Man's search for meaning [📖]() 
 - [ ] Лао. Цзы: о пути и силе [📖]() 
-- [ ] ️⭐️ **Models** [📖](https://www.goodreads.com/book/show/12633800-models)
-- [ ] ⭐️ **No More Mr. Nice Guy** [📖](https://www.goodreads.com/book/show/97642.No_More_Mr_Nice_Guy) 
+- [x] ️⭐️ **Models** [📖](https://www.goodreads.com/book/show/12633800-models)
+- [x] ⭐️ ‼️ **No More Mr. Nice Guy** [📖](https://www.goodreads.com/book/show/97642.No_More_Mr_Nice_Guy) 
 
 ## Marketing
 - [ ] 15 invaluable laws of growth [📖]() 
