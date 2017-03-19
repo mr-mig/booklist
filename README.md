@@ -152,7 +152,7 @@ TODO:
 - [ ] Building Microservices [📖]() 
 - [ ] Clojure for Brave and True [📖]() 
 - [x] ‼️ **Practical Object-Oriented Desing with Ruby** [📖](http://www.poodr.com/)
-- [ ] ⭐️ Programming Beyond Practices [📖](https://www.goodreads.com/book/show/29895093-programming-beyond-practices) 
+- [ ] ⭐️ **Programming Beyond Practices** [📖](https://www.goodreads.com/book/show/29895093-programming-beyond-practices) 
 
 ## Career, Skill Acquisition, Personal Growth
 - [ ] ⭐️ **From Novice to Expert** [📖]() 
