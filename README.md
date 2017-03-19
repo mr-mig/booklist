@@ -27,14 +27,13 @@ TODO:
 ## Mindset Enhancement, Philosophy
 - [x] ‼️ **Learned Optimism** [📖](https://www.goodreads.com/book/show/26123.Learned_Optimism) 
 - [x] ‼️ **The Subtle Art Of Not Giving a Fuck** [📖](https://www.goodreads.com/book/show/28259130-the-subtle-art-of-not-giving-a-f-ck)
-- [ ] ⭐️️️ ‼️ **How to win friends and influence people** [📖]
+- [ ] ⭐️️️ ‼️ **How to win friends and influence people** [📖](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People)   
 - [ ] ⭐️ **Fooled by Randomness** [📖](https://www.goodreads.com/book/show/38315.Fooled_by_Randomness)   
 - [ ] ️⭐️ **The Wisdom of Crowds** [📖](https://www.goodreads.com/book/show/68143.The_Wisdom_of_Crowds)
 - [ ] ⭐️ **Think and Grow Rich** [📖](https://www.goodreads.com/book/show/30186948-think-and-grow-rich) 
 - [ ] ️⭐️ **The 5 Elements of Effective Thinking** [📖](https://www.goodreads.com/book/show/14891980-the-5-elements-of-effective-thinking) 
 - [ ] ⭐️ **The Lean Mindset** [📖]() 
-- [ ] ⭐️ **Overcoming the Obstacles to Psychological Balance and Compassion** [📖]
-(https://www.goodreads.com/book/show/3084431-emotional-awareness)
+- [ ] ⭐️ **Overcoming the Obstacles to Psychological Balance and Compassion** [📖](https://www.goodreads.com/book/show/3084431-emotional-awareness)
 - [ ] ⭐️️ **The Art Of Loving** [📖](https://www.goodreads.com/book/show/14142.The_Art_of_Loving) 
 - [ ] ⭐️️ **Influence: The Psychology of Persuasion** [📖](https://www.goodreads.com/book/show/28815.Influence) 
 - [ ] ⭐️ **Willpower Instinct**  [📖](https://www.goodreads.com/book/show/10865206-the-willpower-instinct) 
@@ -60,7 +59,7 @@ TODO:
 - [ ] Everything Is Obvious: Once You Know the Answer [📖](https://www.goodreads.com/book/show/9206187-everything-is-obvious) 
 - [ ] Coherence: The Secret Science of Brilliant Leadership [📖](https://www.goodreads.com/book/show/18210521-coherence)
 - [ ] Mind Power Into the 21st Century [📖](https://www.goodreads.com/book/show/180089.Mind_Power_Into_the_21st_Century) 
-- [ ] The Organized Mind [📖](https://www.goodreads.com/book/show/18693669-the-organized-mind) (https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People)   
+- [ ] The Organized Mind [📖](https://www.goodreads.com/book/show/18693669-the-organized-mind)
 - [ ] Feeling Good: The New Mood Therapy [📖](https://www.goodreads.com/book/show/46674.Feeling_Good) 
 - [ ] Crucial Conversations [📖](https://www.goodreads.com/book/show/15014.Crucial_Conversations) 
 - [ ] The Art of Possibility [📖](https://www.goodreads.com/book/show/85697.The_Art_of_Possibility) 
@@ -97,7 +96,7 @@ TODO:
 - [x] ‼️ **Release it**! [📖](https://pragprog.com/book/mnee/release-it) 
 - [x] ‼️ **Practical Object-Oriented Desing with Ruby** [📖](http://www.poodr.com/)
 - [x] Building Microservices [📖](https://www.goodreads.com/book/show/22512931-building-microservices) 
-- [ ] ⭐️️ ‼️️️ **Grokking Algorithms** [📖]
+- [ ] ⭐️️ ‼️️️ **Grokking Algorithms** [📖](https://www.goodreads.com/book/show/22847284-grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curio)
 - [ ] ⭐️ **Programming Beyond Practices** [📖](https://www.goodreads.com/book/show/29895093-programming-beyond-practices) 
 - [ ] ⭐️ ‼️ **Structure and Implementation of Computer Programs** [📖]() 
 - [ ] ⭐️ ‼️ **Site Reliability Engineering** [📖](http://shop.oreilly.com/product/0636920041528.do) 
@@ -110,7 +109,7 @@ TODO:
 - [ ] ⭐️ **The Pragmatic Programmer: From Journeyman to Master** [📖](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer) 
 - [ ] ⭐️ **Code Complete: A Practical Handbook of Software Construction, Second Edition** [📖](https://www.goodreads.com/book/show/4845.Code_Complete) 
 - [ ] ⭐️ **Software Engineering, 9th edition** [📖](https://www.goodreads.com/book/show/7947682-software-engineering) 
-- [ ] ⭐️ **Software Engineering: A Practitioner's Approach** [📖]
+- [ ] ⭐️ **Software Engineering: A Practitioner's Approach** [📖](https://www.goodreads.com/book/show/142783.Software_Engineering) 
 - [ ] ⭐️ **SWEBOK** [📖](https://www.goodreads.com/book/show/23293359-software-engineering-body-of-knowledge) 
 - [ ] ⭐️ **Software Estimation: demistifying the black art** [📖](https://www.goodreads.com/book/show/93891.Software_Estimation)
 - [ ] ⭐️ **The Elements of Programming Style** [📖](https://www.goodreads.com/book/show/454039.The_Elements_of_Programming_Style)
@@ -118,7 +117,7 @@ TODO:
 - [ ] ⭐️ **Domain Driven Design Distilled** [📖](https://www.goodreads.com/book/show/28602719-domain-driven-design-distilled) 
 - [ ] ⭐️ **Type Driven Development with Idris** [📖](https://www.manning.com/books/type-driven-development-with-idris)  
 - [ ] ⭐️ **Growing Object Oriented Software with Tests** [📖](http://www.growing-object-oriented-software.com/ )  
-- [ ] ⭐️ **Production Ready Microservices** [📖](https://www.goodreads.com/book/show/33252815-production-ready-microservices) (https://www.goodreads.com/book/show/142783.Software_Engineering) 
+- [ ] ⭐️ **Production Ready Microservices** [📖](https://www.goodreads.com/book/show/33252815-production-ready-microservices) 
 - [ ] The Imposter's Handbook [📖](https://bigmachine.io/products/the-imposters-handbook)
 - [ ] Haskell Book [📖](http://haskellbook.com/) 
 - [ ] Why Programs Fail [📖](https://www.goodreads.com/book/show/6882295-why-programs-fail) 
@@ -142,7 +141,6 @@ TODO:
 - [ ] Feature-Oriented Software Product Lines [📖](http://www.springer.com/gb/book/9783642375200)   
 - [ ] DevOps Handbook [📖](https://www.goodreads.com/book/show/26083308-the-devops-handbook) 
 - [ ] Continuos Delivery [📖](https://www.goodreads.com/book/show/8686650-continuous-delivery) 
-(https://www.goodreads.com/book/show/22847284-grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curio)
 - [ ] Clojure for Brave and True [📖](https://www.goodreads.com/book/show/20873338-clojure-for-the-brave-and-true) 
  
 ## Career, Skill Acquisition, Personal Growth
