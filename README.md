@@ -171,6 +171,7 @@ TODO:
 - [ ] The Start-up of You [📖](https://www.goodreads.com/book/show/12030438-the-start-up-of-you)
 - [ ] Из связей в князи [📖](https://www.dropbox.com/s/tceqpxqbhv2s16i/%D0%98%D0%B7_%D1%81%D0%B2%D1%8F%D0%B7%D0%B5%D0%B9_%D0%B2_%D0%BA%D0%BD%D1%8F%D0%B7%D0%B8_%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC_%D0%A7%D0%B5%D1%80%D0%BD%D0%BE%D0%B2.pdf) 
 - [ ] The Denial of Death [📖](https://www.goodreads.com/book/show/2761.The_Denial_of_Death)
+- [ ] Never Eat Alone: And Other Secrets to Success, One Relationship at a Time [📖](https://www.goodreads.com/book/show/84699.Never_Eat_Alone)
 - [x] ‼️ Deep Work [📖](https://www.goodreads.com/book/show/25744928-deep-work)
 - [x] So Good They Can't Ignore You [📖](https://www.goodreads.com/book/show/13525945-so-good-they-can-t-ignore-you)
 
