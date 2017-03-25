@@ -11,7 +11,7 @@ If you have something to suggest feel free to make a PR.
 
 TODO: 
 
-- [ ] Add books from the shelve
+- [x] Add books from the shelve
 - [ ] Add read books 
 - [x] Add all links
 - [x] Sort things (read/high-priority/other)
