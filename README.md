@@ -167,8 +167,10 @@ TODO:
 - [x] ️‼️ **Difficult Conversations: How to Discuss What Matters Most** [📖](https://www.goodreads.com/book/show/774088.Difficult_Conversations)
 - [x] ‼️ **Thinking, Fast and Slow** [📖](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow)
 - [x] ‼️ **Getting Things Done (2015 edition)** [📖](https://www.goodreads.com/book/show/22521573-getting-things-done)
+- [x] ‼️ **Deep Work** [📖](https://www.goodreads.com/book/show/25744928-deep-work)
 - [x] Make the Most of Your Mind
  [📖](https://www.goodreads.com/book/show/888648.Make_the_Most_of_Your_Mind)
+- [x] So Good They Can't Ignore You [📖](https://www.goodreads.com/book/show/13525945-so-good-they-can-t-ignore-you)
 - [ ] ⭐️ **Make it stick: the science of successful learning** [📖](https://www.goodreads.com/book/show/18770267-make-it-stick) 
 - [ ] ⭐️ **Better: A Surgeon’s Notes on Performance** [📖](https://www.goodreads.com/book/show/213233.Better) 
 - [ ] ⭐️ **From Novice to Expert** [📖](https://www.goodreads.com/book/show/1368823.From_Novice_to_Expert) 
@@ -192,8 +194,6 @@ TODO:
 - [ ] Из связей в князи [📖](https://www.dropbox.com/s/tceqpxqbhv2s16i/%D0%98%D0%B7_%D1%81%D0%B2%D1%8F%D0%B7%D0%B5%D0%B9_%D0%B2_%D0%BA%D0%BD%D1%8F%D0%B7%D0%B8_%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC_%D0%A7%D0%B5%D1%80%D0%BD%D0%BE%D0%B2.pdf) 
 - [ ] The Denial of Death [📖](https://www.goodreads.com/book/show/2761.The_Denial_of_Death)
 - [ ] Never Eat Alone: And Other Secrets to Success, One Relationship at a Time [📖](https://www.goodreads.com/book/show/84699.Never_Eat_Alone)
-- [x] ‼️ Deep Work [📖](https://www.goodreads.com/book/show/25744928-deep-work)
-- [x] So Good They Can't Ignore You [📖](https://www.goodreads.com/book/show/13525945-so-good-they-can-t-ignore-you)
 
 ## Habits & Lifestyle
 - [x] ‼️ **Mini Habits** [📖](https://www.goodreads.com/book/show/20567918-mini-habits) 
