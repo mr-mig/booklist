@@ -164,7 +164,7 @@ TODO:
 - [ ] Testing Computer Software [📖](https://www.goodreads.com/book/show/663621.Testing_Computer_Software)
  
 ## Career, Skill Acquisition, Personal Growth
-- [x] ️‼️ **Difficult Conversations: How to Discuss What Matters Most** [📖]((https://www.goodreads.com/book/show/774088.Difficult_Conversations)
+- [x] ️‼️ **Difficult Conversations: How to Discuss What Matters Most** [📖](https://www.goodreads.com/book/show/774088.Difficult_Conversations)
 - [x] ‼️ **Thinking, Fast and Slow** [📖](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow)
 - [x] ‼️ **Getting Things Done (2015 edition)** [📖](https://www.goodreads.com/book/show/22521573-getting-things-done)
 - [x] Make the Most of Your Mind
