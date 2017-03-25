@@ -68,7 +68,7 @@ TODO:
 - [ ] Hard Thing About Hard Things [📖](https://www.goodreads.com/book/show/18176747-the-hard-thing-about-hard-things) 
 
 ## UX & Design
-- [x] ‼️ **Badass: Making Users Awesome** [📖] (https://www.goodreads.com/book/show/24737268-badass)
+- [x] ‼️ **Badass: Making Users Awesome** [📖](https://www.goodreads.com/book/show/24737268-badass)
 - [x] ‼️ **Hooked: How to Build Habit-Forming Products** [📖](https://www.goodreads.com/book/show/22668729-hooked)
 - [x] ‼️ **Resonate: Present Visual Stories that Transform Audiences** [📖](https://www.goodreads.com/book/show/36072.The_7_Habits_of_Highly_Effective_People)
 - [x] Design for Hackers [📖](https://www.goodreads.com/book/show/11457105-design-for-hackers)
@@ -94,7 +94,7 @@ TODO:
 - [ ] ️⭐️ **Thinking in Systems: A Primer** [📖](https://www.goodreads.com/book/show/3828902-thinking-in-systems) 
 - [ ] ️⭐️ **The art and craft of problem solving** [📖](https://www.goodreads.com/book/show/593458.The_Art_and_Craft_of_Problem_Solving) 
 - [ ] ️⭐️ **Conceptual Mathematics: A First Introduction to Categories** [📖](https://www.goodreads.com/book/show/6117276-conceptual-mathematics)
-- [ ] A Brief History of Time [📖] (https://www.goodreads.com/book/show/3869.A_Brief_History_of_Time)
+- [ ] A Brief History of Time [📖](https://www.goodreads.com/book/show/3869.A_Brief_History_of_Time)
 - [ ] Alice in Quantumland [📖](https://www.goodreads.com/book/show/1044095.Alice_in_Quantumland) 
 - [ ] The annotated Turing [📖](http://theannotatedturing.com/) 
 - [ ] Entropy [📖](http://pages.physics.cornell.edu/~sethna/StatMech/EntropyOrderParametersComplexity.pdf)  
@@ -164,7 +164,7 @@ TODO:
 - [ ] Testing Computer Software [📖](https://www.goodreads.com/book/show/663621.Testing_Computer_Software)
  
 ## Career, Skill Acquisition, Personal Growth
-- [x] ️‼️ **Difficult Conversations: How to Discuss What Matters Most** [📖]
+- [x] ️‼️ **Difficult Conversations: How to Discuss What Matters Most** [📖]((https://www.goodreads.com/book/show/774088.Difficult_Conversations)
 - [x] ‼️ **Thinking, Fast and Slow** [📖](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow)
 - [x] ‼️ **Getting Things Done (2015 edition)** [📖](https://www.goodreads.com/book/show/22521573-getting-things-done)
 - [x] Make the Most of Your Mind
@@ -174,7 +174,6 @@ TODO:
 - [ ] ⭐️ **From Novice to Expert** [📖](https://www.goodreads.com/book/show/1368823.From_Novice_to_Expert) 
 - [ ] ⭐️ **The Artist's Way: A Spiritual Path to Higher Creativity** [📖](https://www.goodreads.com/book/show/615570.The_Artist_s_Way)
 - [ ] ⭐️ **Work rules!** [📖](https://www.goodreads.com/book/show/22875447-work-rules)
-(https://www.goodreads.com/book/show/774088.Difficult_Conversations)
 - [ ] ⭐️ **Crucial Conversations** [📖](https://www.goodreads.com/book/show/15014.Crucial_Conversations) 
 - [ ] Tools of Titans: The Tactics, Routines, and Habits of Billionaires, Icons, and World-Class Performers [📖](https://www.goodreads.com/book/show/31823677-tools-of-titans)
 - [ ] Big Magic: Creative Living Beyond Fear [📖](https://www.goodreads.com/book/show/24453082-big-magic)
