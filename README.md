@@ -29,7 +29,7 @@ TODO:
 - [x] ‼️ **The 7 Habits of Highly Effective People** [📖](https://www.goodreads.com/book/show/36072.The_7_Habits_of_Highly_Effective_People)
 - [x] ‼️ **The Subtle Art Of Not Giving a Fuck** [📖](https://www.goodreads.com/book/show/28259130-the-subtle-art-of-not-giving-a-f-ck)
 - [x] ‼️ **Emotional Intelligence: Why It Can Matter More Than IQ** [📖](https://www.goodreads.com/book/show/26329.Emotional_Intelligence)
-- [ ] ⭐️️️ ‼️ **Solve for Happy: Engineer Your Path to Joy** [📖](https://www.goodreads.com/book/show/30354426-solve-for-happy)
+- [x] ‼️ **Solve for Happy: Engineer Your Path to Joy** [📖](https://www.goodreads.com/book/show/30354426-solve-for-happy)
 - [ ] ⭐️️️ ‼️ **How to win friends and influence people** [📖](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People)   
 - [ ] ⭐️ **Fooled by Randomness** [📖](https://www.goodreads.com/book/show/38315.Fooled_by_Randomness)   
 - [ ] ️⭐️ **The Wisdom of Crowds** [📖](https://www.goodreads.com/book/show/68143.The_Wisdom_of_Crowds)
