@@ -54,6 +54,7 @@ TODO:
 - [ ] ⭐️ **Gödel, Escher, Bach: An Eternal Golden Braid** [📖](https://www.goodreads.com/book/show/24113.G_del_Escher_Bach)
 - [ ] ⭐️ **Are your lights on?** [📖](https://www.goodreads.com/book/show/1044831.Are_Your_Lights_On_) 
 - [ ] ⭐️ **Games People Play** [📖](https://www.goodreads.com/book/show/49176.Games_People_Play)
+- [ ] ⭐️ **The Selfish Gene** [📖](https://www.goodreads.com/book/show/61535.The_Selfish_Gene)
 - [ ] The Righteous Mind [📖](https://www.goodreads.com/book/show/11324722-the-righteous-mind)
 - [ ] The Sovereign Individual [📖](https://www.goodreads.com/book/show/82256.The_Sovereign_Individual)
 - [ ] Mindfulness for Beginners [📖](https://www.goodreads.com/book/show/22045755-mindfulness-for-beginners) 
