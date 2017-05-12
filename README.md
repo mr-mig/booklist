@@ -67,6 +67,7 @@ TODO:
 - [ ] The Art of Possibility [📖](https://www.goodreads.com/book/show/85697.The_Art_of_Possibility) 
 - [ ] Joy Inc. [📖](https://www.goodreads.com/book/show/18079560-joy-inc) 
 - [ ] Hard Thing About Hard Things [📖](https://www.goodreads.com/book/show/18176747-the-hard-thing-about-hard-things) 
+- [ ] First Impressions: What You Don’t Know About How Others See You [📖](https://www.goodreads.com/book/show/589937.First_Impressions)
 
 ## UX & Design
 - [x] ‼️ **Badass: Making Users Awesome** [📖](https://www.goodreads.com/book/show/24737268-badass)
