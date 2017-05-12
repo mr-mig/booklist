@@ -100,6 +100,7 @@ TODO:
 - [ ] ️⭐️ **The art and craft of problem solving** [📖](https://www.goodreads.com/book/show/593458.The_Art_and_Craft_of_Problem_Solving) 
 - [ ] ️⭐️ **Conceptual Mathematics: A First Introduction to Categories** [📖](https://www.goodreads.com/book/show/6117276-conceptual-mathematics)
 - [ ] A Brief History of Time [📖](https://www.goodreads.com/book/show/3869.A_Brief_History_of_Time)
+- [ ] Sapiens [📖](https://www.goodreads.com/book/show/23692271-sapiens)
 - [ ] Alice in Quantumland [📖](https://www.goodreads.com/book/show/1044095.Alice_in_Quantumland) 
 - [ ] The annotated Turing [📖](http://theannotatedturing.com/) 
 - [ ] Entropy [📖](http://pages.physics.cornell.edu/~sethna/StatMech/EntropyOrderParametersComplexity.pdf)  
