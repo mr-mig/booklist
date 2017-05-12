@@ -23,6 +23,7 @@ TODO:
 - [ ] Werner Siemens [📖](http://www.siemens.com/content/dam/internet/siemens-com/global/company/about/history/personalities/werner-von-siemens/2016-lifelines-werner-von-siemens-web.pdf)
 - [ ] 33 ступеньки в небо [📖](https://www.livelib.ru/book/1000447240-33-stupenki-v-nebo-anatolij-markusha)  
 - [ ] A Mathematicians Miscellany [📖](https://archive.org/details/mathematiciansmi033496mbp) 
+- [ ] ⭐ The Little Book of Hygge: The Danish Way to Live Well [📖](https://www.goodreads.com/book/show/30045683-the-little-book-of-hygge)
 
 ## Mindset Enhancement, Philosophy
 - [x] ‼️ **Learned Optimism** [📖](https://www.goodreads.com/book/show/26123.Learned_Optimism) 
