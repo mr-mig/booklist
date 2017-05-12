@@ -82,9 +82,11 @@ TODO:
 - [ ] Design For business  [📖](http://tubikstudio.com/book/)
 - [ ] Design: creation of artifacts in society [📖](https://www.goodreads.com/book/show/20330172-design)
 
-## Coaching
-- [ ] HBR Guide to Coaching Employees [📖](https://hbr.org/product/hbr-guide-to-coaching-employees/13990-PBK-ENG) 
+## Coaching & Teaching
 - [x] The Coaching Habit: Say Less, Ask More [📖](https://www.goodreads.com/book/show/29342515-the-coaching-habit)
+- [ ] ⭐️ Free To Learn: Why Unleashing the Instinct to Play Will Make Our Children Happier, More Self-Reliant, and Better Students for Life [📖](https://www.goodreads.com/book/show/15843125-free-to-learn)
+- [ ] ⭐️ **Make it stick: the science of successful learning** [📖](https://www.goodreads.com/book/show/18770267-make-it-stick) 
+- [ ] HBR Guide to Coaching Employees [📖](https://hbr.org/product/hbr-guide-to-coaching-employees/13990-PBK-ENG) 
 
 ## Health
 - [ ] Death by Food Pyramid [📖](https://www.goodreads.com/book/show/18054967-death-by-food-pyramid) 
@@ -173,7 +175,6 @@ TODO:
 - [x] Make the Most of Your Mind
  [📖](https://www.goodreads.com/book/show/888648.Make_the_Most_of_Your_Mind)
 - [x] So Good They Can't Ignore You [📖](https://www.goodreads.com/book/show/13525945-so-good-they-can-t-ignore-you)
-- [ ] ⭐️ **Make it stick: the science of successful learning** [📖](https://www.goodreads.com/book/show/18770267-make-it-stick) 
 - [ ] ⭐️ **Better: A Surgeon’s Notes on Performance** [📖](https://www.goodreads.com/book/show/213233.Better) 
 - [ ] ⭐️ **From Novice to Expert** [📖](https://www.goodreads.com/book/show/1368823.From_Novice_to_Expert) 
 - [ ] ⭐️ **The Artist's Way: A Spiritual Path to Higher Creativity** [📖](https://www.goodreads.com/book/show/615570.The_Artist_s_Way)
