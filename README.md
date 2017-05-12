@@ -166,6 +166,7 @@ TODO:
 - [ ] Web Development with Clojure [📖](https://www.goodreads.com/book/show/18399028-web-development-with-clojure)
 - [ ] Exploratory Software Testing [📖](https://www.goodreads.com/book/show/6828590-exploratory-software-testing)
 - [ ] Testing Computer Software [📖](https://www.goodreads.com/book/show/663621.Testing_Computer_Software)
+- [ ] Software Architecture For Developers [📖](https://www.goodreads.com/book/show/33221518-software-architecture-for-developers)
  
 ## Career, Skill Acquisition, Personal Growth
 - [x] ️‼️ **Difficult Conversations: How to Discuss What Matters Most** [📖](https://www.goodreads.com/book/show/774088.Difficult_Conversations)
