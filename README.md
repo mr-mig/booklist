@@ -83,7 +83,8 @@ TODO:
 - [ ] Design: creation of artifacts in society [📖](https://www.goodreads.com/book/show/20330172-design)
 
 ## Coaching
-- [ ] HBR Guide to Coaching Employees [📖](HBR Guide to Coaching Employees) 
+- [ ] HBR Guide to Coaching Employees [📖](https://hbr.org/product/hbr-guide-to-coaching-employees/13990-PBK-ENG) 
+- [x] The Coaching Habit: Say Less, Ask More [📖](https://www.goodreads.com/book/show/29342515-the-coaching-habit)
 
 ## Health
 - [ ] Death by Food Pyramid [📖](https://www.goodreads.com/book/show/18054967-death-by-food-pyramid) 
