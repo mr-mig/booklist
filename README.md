@@ -246,8 +246,9 @@ TODO:
 ## Management, Entrepreneurship, Strategy & Decision Making
 - [x] ‼️ **The Secrets of Consulting** [📖](https://www.goodreads.com/book/show/566213.The_Secrets_of_Consulting)
 - [x] The Lean Startup [📖](https://www.goodreads.com/book/show/10127019-the-lean-startup)
-- [ ] ⭐️ **Five languages of appreciation** [📖](https://www.goodreads.com/book/show/11259079-the-five-languages-of-appreciation-in-the-workplace)
-- [ ] ⭐️ **E-myth revisited** [📖](https://www.goodreads.com/book/show/81948.The_E_Myth_Revisited) 
+- [ ] ⭐ ‼️ **The art of Strategy: A Game Theorist's Guide to Success in Business and Life** [📖](https://www.goodreads.com/book/show/2423424.The_Art_of_Strategy)
+- [ ] ⭐️ ‼️ **Five languages of appreciation** [📖](https://www.goodreads.com/book/show/11259079-the-five-languages-of-appreciation-in-the-workplace)
+- [ ] ⭐️ ‼️ **E-myth revisited** [📖](https://www.goodreads.com/book/show/81948.The_E_Myth_Revisited) 
 - [ ] ⭐️ **The Advantage** [📖](https://www.goodreads.com/book/show/12975375-the-advantage)
 - [ ] ⭐️ **The Black Swan: The Impact of the Highly Improbable** [📖](https://www.goodreads.com/book/show/242472.The_Black_Swan)
 - [ ] ⭐️ **The ten day MBA** [📖](https://www.goodreads.com/book/show/32056475-the-10-day-mba)  
