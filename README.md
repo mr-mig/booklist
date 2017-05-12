@@ -283,3 +283,4 @@ TODO:
 - [ ] The Book of the Dead [📖](https://www.goodreads.com/book/show/790550.The_Egyptian_Book_of_the_Dead) 
 - [ ] Ramayana [📖](https://www.goodreads.com/book/show/141152.Ramayana) 
 - [ ] Journey to the East [📖](https://www.goodreads.com/book/show/13519.The_Journey_to_the_East) 
+- [ ] Введение в Буддологию [📖](https://www.goodreads.com/book/show/16099032)
