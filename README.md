@@ -89,7 +89,7 @@ TODO:
 ## Coaching & Teaching
 - [x] The Coaching Habit: Say Less, Ask More [📖](https://www.goodreads.com/book/show/29342515-the-coaching-habit)
 - [ ] ⭐️ Free To Learn: Why Unleashing the Instinct to Play Will Make Our Children Happier, More Self-Reliant, and Better Students for Life [📖](https://www.goodreads.com/book/show/15843125-free-to-learn)
-- [ ] ⭐️ **Make it stick: the science of successful learning** [📖](https://www.goodreads.com/book/show/18770267-make-it-stick) 
+- [ ] ⭐️ **Make it stick: the ` of successful learning** [📖](https://www.goodreads.com/book/show/18770267-make-it-stick) 
 - [ ] HBR Guide to Coaching Employees [📖](https://hbr.org/product/hbr-guide-to-coaching-employees/13990-PBK-ENG) 
 
 ## Health
@@ -102,6 +102,7 @@ TODO:
 - [ ] ️⭐️ **Thinking in Systems: A Primer** [📖](https://www.goodreads.com/book/show/3828902-thinking-in-systems) 
 - [ ] ️⭐️ **The art and craft of problem solving** [📖](https://www.goodreads.com/book/show/593458.The_Art_and_Craft_of_Problem_Solving) 
 - [ ] ️⭐️ **Conceptual Mathematics: A First Introduction to Categories** [📖](https://www.goodreads.com/book/show/6117276-conceptual-mathematics)
+- [ ] ⭐️ **Paradoxes of Growth: Laws of Global Development of Humanity** [📖](https://www.goodreads.com/book/show/34638152-paradoxes-of-growth)
 - [ ] A Brief History of Time [📖](https://www.goodreads.com/book/show/3869.A_Brief_History_of_Time)
 - [ ] Sapiens [📖](https://www.goodreads.com/book/show/23692271-sapiens)
 - [ ] Alice in Quantumland [📖](https://www.goodreads.com/book/show/1044095.Alice_in_Quantumland) 
