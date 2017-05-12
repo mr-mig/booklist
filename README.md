@@ -140,6 +140,7 @@ TODO:
 - [ ] ⭐️ **Growing Object Oriented Software with Tests** [📖](http://www.growing-object-oriented-software.com/ )  
 - [ ] ⭐️ **Production Ready Microservices** [📖](https://www.goodreads.com/book/show/33252815-production-ready-microservices) 
 - [ ] ⭐ Reactive Messaging Patterns with the Actor Model [📖](https://www.goodreads.com/book/show/33257823-reactive-messaging-patterns-with-the-actor-model)
+- [ ] ⭐ 99 Bottles of OOP [📖](https://www.sandimetz.com/99bottles)
 - [ ] TypeScript Deep Dive [📖](https://www.gitbook.com/book/basarat/typescript/details)
 - [ ] How Google Tests Software [📖](https://www.goodreads.com/book/show/13105440-how-google-tests-software)
 - [ ] Seven Concurrency Models in Seven Weeks [📖](https://www.goodreads.com/book/show/18467564-seven-concurrency-models-in-seven-weeks)
