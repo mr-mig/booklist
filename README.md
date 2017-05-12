@@ -270,6 +270,7 @@ TODO:
 - [ ] ⭐️ Essential Scrum: A Practical Guide to the Most Popular Agile Process [📖](https://www.goodreads.com/book/show/13663747-essential-scrum)
 - [ ] ⭐️ The Richest Man in Babylon [📖](https://www.goodreads.com/book/show/1052.The_Richest_Man_in_Babylon)
 - [ ] ⭐️ The Decision Book: Fifty Models for Strategic Thinking [📖](https://www.goodreads.com/book/show/9793361-the-decision-book)
+- [ ] ⭐️ The Challenger Sale: Taking Control of the Customer Conversation [📖](https://www.goodreads.com/book/show/11910902-the-challenger-sale)
 - [ ] Rework [📖](https://www.goodreads.com/book/show/6732019-rework)
 - [ ] Контент-технология: как, где и о чем говорить с клиентами [📖](http://www.ozon.ru/context/detail/id/34541714/)
 - [ ] The War for Talent [📖](https://www.goodreads.com/book/show/691746.The_War_for_Talent)
