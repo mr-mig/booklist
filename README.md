@@ -116,6 +116,7 @@ TODO:
 - [x] ‼️️ **Head First Design Patterns** [📖](https://www.goodreads.com/book/show/58128.Head_First_Design_Patterns)
 - [x] Domain Driven Design Distilled [📖](https://www.goodreads.com/book/show/28602719-domain-driven-design-distilled) 
 - [x] How Many Licks?: Or, How to Estimate Damn Near Anything  [📖](https://www.goodreads.com/book/show/6838831-how-many-licks)
+- [ ] ⭐️ ‼️️ **High Performance Browser Networking** [📖](https://www.goodreads.com/book/show/17985198-high-performance-browser-networking)
 - [ ] ⭐️ **Professor Frisby's Mostly Adequate Guide to Functional Programming** [📖](https://www.goodreads.com/book/show/25847352-professor-frisby-s-mostly-adequate-guide-to-functional-programming)
 - [ ] ⭐️️ ‼️️️ **Grokking Algorithms** [📖](https://www.goodreads.com/book/show/22847284-grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curio)
 - [ ] ⭐️ **Programming Beyond Practices** [📖](https://www.goodreads.com/book/show/29895093-programming-beyond-practices) 
