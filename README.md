@@ -252,6 +252,7 @@ TODO:
 - [ ] ⭐️ **The Deadline** [📖](https://www.goodreads.com/book/show/123716.The_Deadline)
 - [ ] ⭐️ **First, Break All the Rules** [📖](https://www.goodreads.com/book/show/50937.First_Break_All_the_Rules)
 - [ ] ⭐️ Essential Scrum: A Practical Guide to the Most Popular Agile Process [📖](https://www.goodreads.com/book/show/13663747-essential-scrum)
+- [ ] ⭐️ The Richest Man in Babylon [📖](https://www.goodreads.com/book/show/1052.The_Richest_Man_in_Babylon)
 - [ ] Rework [📖](https://www.goodreads.com/book/show/6732019-rework)
 - [ ] Контент-технология: как, где и о чем говорить с клиентами [📖](http://www.ozon.ru/context/detail/id/34541714/)
 - [ ] The War for Talent [📖](https://www.goodreads.com/book/show/691746.The_War_for_Talent)
