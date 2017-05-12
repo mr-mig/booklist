@@ -101,6 +101,7 @@ TODO:
 
 ## Science
 - [ ] ⭐️ ‼️ **The Sciences of the Artificial, Third Edition** [📖](https://www.goodreads.com/book/show/676046.The_Sciences_of_the_Artificial)   
+- [ ] ⭐️ ‼️ **Geometry of Meaning: Semantics Based on Conceptual Spaces** [📖](https://www.goodreads.com/book/show/18699199-geometry-of-meaning)
 - [ ] ️⭐️ **Thinking in Systems: A Primer** [📖](https://www.goodreads.com/book/show/3828902-thinking-in-systems) 
 - [ ] ️⭐️ **The art and craft of problem solving** [📖](https://www.goodreads.com/book/show/593458.The_Art_and_Craft_of_Problem_Solving) 
 - [ ] ️⭐️ **Conceptual Mathematics: A First Introduction to Categories** [📖](https://www.goodreads.com/book/show/6117276-conceptual-mathematics)
