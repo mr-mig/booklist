@@ -94,6 +94,7 @@ TODO:
 - [ ] ⭐️ Free To Learn: Why Unleashing the Instinct to Play Will Make Our Children Happier, More Self-Reliant, and Better Students for Life [📖](https://www.goodreads.com/book/show/15843125-free-to-learn)
 - [ ] ⭐️ **Make it stick: the ` of successful learning** [📖](https://www.goodreads.com/book/show/18770267-make-it-stick) 
 - [ ] HBR Guide to Coaching Employees [📖](https://hbr.org/product/hbr-guide-to-coaching-employees/13990-PBK-ENG) 
+- [ ] Open: How We’ll Work, Live and Learn In The Future [📖](https://www.goodreads.com/book/show/18730272-open)
 
 ## Health
 - [ ] Death by Food Pyramid [📖](https://www.goodreads.com/book/show/18054967-death-by-food-pyramid) 
