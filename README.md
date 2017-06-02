@@ -133,6 +133,7 @@ TODO:
 - [ ] ⭐️ ‼️ **Structure and Implementation of Computer Programs** [📖]() 
 - [ ] ⭐️ ‼️ **Site Reliability Engineering** [📖](http://shop.oreilly.com/product/0636920041528.do) 
 - [ ] ⭐️ ‼️ **Working Effectively with Legacy Code** [📖](https://www.goodreads.com/book/show/44919.Working_Effectively_with_Legacy_Code)
+- [ ] ⭐️ ‼ Object-Oriented Software Construction (2nd Edition) [📖](https://www.goodreads.com/book/show/946106.Object_Oriented_Software_Construction)
 - [ ] ⭐️ **The nature of software development** [📖](https://pragprog.com/book/rjnsd/the-nature-of-software-development)
 - [ ] ⭐️ **The Algorithm Design Manual 2nd Edition** [📖](https://www.goodreads.com/book/show/425208.The_Algorithm_Design_Manual) 
 - [ ] ⭐️ **The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win** [📖](https://www.goodreads.com/book/show/17255186-the-phoenix-project)
