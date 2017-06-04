@@ -114,6 +114,7 @@ TODO:
 - [ ] The annotated Turing [📖](http://theannotatedturing.com/) 
 - [ ] Entropy [📖](http://pages.physics.cornell.edu/~sethna/StatMech/EntropyOrderParametersComplexity.pdf)  
 - [ ] Золотой билет. P, NP и границы возможного [📖](https://www.goodreads.com/book/show/17130549-the-golden-ticket) 
+- [ ] ⭐️ ‼️ Harry Potter and the Methods of Rationality [📖](http://www.hpmor.com/)
 
 ## Engineering & Programming
 - [x] ‼️ **Release it**! [📖](https://pragprog.com/book/mnee/release-it) 
