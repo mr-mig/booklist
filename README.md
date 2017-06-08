@@ -257,6 +257,7 @@ TODO:
 ## Management, Entrepreneurship, Strategy & Decision Making
 - [x] ‼️ **The Secrets of Consulting** [📖](https://www.goodreads.com/book/show/566213.The_Secrets_of_Consulting)
 - [x] The Lean Startup [📖](https://www.goodreads.com/book/show/10127019-the-lean-startup)
+- [ ] ⭐ Masters of Doom: How Two Guys Created an Empire and Transformed Pop Culture [📖](https://www.goodreads.com/book/show/222146.Masters_of_Doom)
 - [ ] ⭐ ‼️ **The art of Strategy: A Game Theorist's Guide to Success in Business and Life** [📖](https://www.goodreads.com/book/show/2423424.The_Art_of_Strategy)
 - [ ] ⭐️ ‼️ **Five languages of appreciation** [📖](https://www.goodreads.com/book/show/11259079-the-five-languages-of-appreciation-in-the-workplace)
 - [ ] ⭐️ ‼️ **E-myth revisited** [📖](https://www.goodreads.com/book/show/81948.The_E_Myth_Revisited) 
