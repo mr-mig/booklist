@@ -264,6 +264,7 @@ TODO:
 - [ ] ⭐️ ‼️ **E-myth revisited** [📖](https://www.goodreads.com/book/show/81948.The_E_Myth_Revisited) 
 - [ ] ⭐️ **The Advantage** [📖](https://www.goodreads.com/book/show/12975375-the-advantage)
 - [ ] ⭐️ **The Black Swan: The Impact of the Highly Improbable** [📖](https://www.goodreads.com/book/show/242472.The_Black_Swan)
+- [ ] ⭐️️️ ‼️ **Antifragile** [📖](http://www.goodreads.com/book/show/13530973-antifragile)
 - [ ] ⭐️ **The ten day MBA** [📖](https://www.goodreads.com/book/show/32056475-the-10-day-mba)  
 - [ ] ⭐️ **More Fearless Change** [📖](https://www.goodreads.com/book/show/23287939-more-fearless-change) 
 - [ ] ⭐️ **Flawless Consulting** [📖](https://www.goodreads.com/book/show/500884.Flawless_Consulting) 
