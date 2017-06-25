@@ -231,7 +231,8 @@ TODO:
 - [ ] ⭐️ **The Little Book of Common Sense Investing** [📖](https://www.goodreads.com/book/show/171127.The_Little_Book_of_Common_Sense_Investing)
 - [ ] ⭐️ **All about Asset Allocation** [📖](https://www.goodreads.com/book/show/9316522-all-about-asset-allocation)
 - [ ] ⭐️ **Debunking Economics** [📖](https://www.goodreads.com/book/show/10303367-debunking-economics---revised-and-expanded-edition) 
-- [ ] The intelligent investor  [📖](https://www.goodreads.com/book/show/106835.The_Intelligent_Investor) 
+- [ ] The intelligent investor [📖](https://www.goodreads.com/book/show/106835.The_Intelligent_Investor) 
+- [ ] The Intelligent Asset Allocator [📖](https://www.goodreads.com/book/show/208722.The_Intelligent_Asset_Allocator)
 - [ ] Ваши деньги должны работать. Владимир Савенок. [📖](https://www.ozon.ru/context/detail/id/4946274/)
 - [ ] The Undercover Economist [📖](https://www.goodreads.com/book/show/70420.The_Undercover_Economist) 
 
