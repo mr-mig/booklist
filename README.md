@@ -233,6 +233,7 @@ TODO:
 - [ ] ⭐️ **Debunking Economics** [📖](https://www.goodreads.com/book/show/10303367-debunking-economics---revised-and-expanded-edition) 
 - [ ] The intelligent investor [📖](https://www.goodreads.com/book/show/106835.The_Intelligent_Investor) 
 - [ ] The Intelligent Asset Allocator [📖](https://www.goodreads.com/book/show/208722.The_Intelligent_Asset_Allocator)
+- [ ] ⭐️ The Four Pillars of Investing [📖](https://www.goodreads.com/book/show/79351.The_Four_Pillars_of_Investing)
 - [ ] Ваши деньги должны работать. Владимир Савенок. [📖](https://www.ozon.ru/context/detail/id/4946274/)
 - [ ] The Undercover Economist [📖](https://www.goodreads.com/book/show/70420.The_Undercover_Economist) 
 
