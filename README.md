@@ -236,6 +236,7 @@ TODO:
 - [ ] ⭐️ The Four Pillars of Investing [📖](https://www.goodreads.com/book/show/79351.The_Four_Pillars_of_Investing)
 - [ ] Ваши деньги должны работать. Владимир Савенок. [📖](https://www.ozon.ru/context/detail/id/4946274/)
 - [ ] The Undercover Economist [📖](https://www.goodreads.com/book/show/70420.The_Undercover_Economist) 
+- [ ] ⭐️ How to Think About Money [📖](https://www.goodreads.com/book/show/31410857-how-to-think-about-money)
 
 ## Manliness
 - [x] The Way Of The Superior Man [📖](https://www.goodreads.com/book/show/79424.The_Way_Of_The_Superior_Man) 
