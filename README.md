@@ -35,6 +35,7 @@ TODO:
 - [ ] ⭐️️️ ‼️ **How to win friends and influence people** [📖](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People)   
 - [ ] ⭐️️️ ‼️ **The Joy of Living: Unlocking the Secret and Science of Happiness** [📖](https://www.goodreads.com/book/show/289448.The_Joy_of_Living)
 - [ ] ⭐️ ‼️ **The Art of Thinking Clearly** [📖](https://www.goodreads.com/book/show/16248196-the-art-of-thinking-clearly)
+- [ ] ⭐️ ‼️ **Mindware: Tools for Smart Thinking** [📖](https://www.goodreads.com/book/show/24040556-mindware)
 - [ ] ⭐️ **Fooled by Randomness** [📖](https://www.goodreads.com/book/show/38315.Fooled_by_Randomness)   
 - [ ] ️⭐️ **The Wisdom of Crowds** [📖](https://www.goodreads.com/book/show/68143.The_Wisdom_of_Crowds)
 - [ ] ⭐️ **Think and Grow Rich** [📖](https://www.goodreads.com/book/show/30186948-think-and-grow-rich) 
