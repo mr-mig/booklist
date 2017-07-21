@@ -31,6 +31,8 @@ TODO:
 - [ ] ⭐️️ Meditations [📖](https://www.goodreads.com/book/show/30659.Meditations)
 - [ ] Letters from a Stoic [📖](https://www.goodreads.com/book/show/97411.Letters_from_a_Stoic)
 - [ ] Dialogues and Essays [📖](https://www.goodreads.com/book/show/1933080.Dialogues_and_Essays)
+- [ ] The Myth of Sisyphus [📖](https://www.goodreads.com/book/show/91950.The_Myth_of_Sisyphus)
+- [ ] The Rebel: An Essay on Man in Revolt [📖](https://www.goodreads.com/book/show/11990.The_Rebel)
 
 ## Mindset Enhancement
 - [x] ‼️ **Learned Optimism** [📖](https://www.goodreads.com/book/show/26123.Learned_Optimism) 
