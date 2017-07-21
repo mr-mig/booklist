@@ -25,7 +25,14 @@ TODO:
 - [ ] A Mathematicians Miscellany [📖](https://archive.org/details/mathematiciansmi033496mbp) 
 - [ ] ⭐ The Little Book of Hygge: The Danish Way to Live Well [📖](https://www.goodreads.com/book/show/30045683-the-little-book-of-hygge)
 
-## Mindset Enhancement, Philosophy
+## Philosophy
+- [x] ⭐️️️ ‼️ *A Guide to the Good Life: The Ancient Art of Stoic Joy*[📖](https://www.goodreads.com/book/show/5617966-a-guide-to-the-good-life)
+- [ ] ⭐️ ‼️ *The Choice* [📖](https://www.goodreads.com/book/show/4845427-the-choice)
+- [ ] ⭐️️ Meditations [📖](https://www.goodreads.com/book/show/30659.Meditations)
+- [ ] Letters from a Stoic [📖](https://www.goodreads.com/book/show/97411.Letters_from_a_Stoic)
+- [ ] Dialogues and Essays [📖](https://www.goodreads.com/book/show/1933080.Dialogues_and_Essays)
+
+## Mindset Enhancement
 - [x] ‼️ **Learned Optimism** [📖](https://www.goodreads.com/book/show/26123.Learned_Optimism) 
 - [x] ‼️ **The 7 Habits of Highly Effective People** [📖](https://www.goodreads.com/book/show/36072.The_7_Habits_of_Highly_Effective_People)
 - [x] ‼️ **The Subtle Art Of Not Giving a Fuck** [📖](https://www.goodreads.com/book/show/28259130-the-subtle-art-of-not-giving-a-f-ck)
