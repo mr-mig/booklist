@@ -27,7 +27,7 @@ TODO:
 
 ## Philosophy
 - [x] ⭐️️️ ‼️ *A Guide to the Good Life: The Ancient Art of Stoic Joy*[📖](https://www.goodreads.com/book/show/5617966-a-guide-to-the-good-life)
-- [ ] ⭐️ ‼️ *The Choice* [📖](https://www.goodreads.com/book/show/4845427-the-choice)
+- [x] ⭐️ ‼️ *The Choice* [📖](https://www.goodreads.com/book/show/4845427-the-choice)
 - [ ] ⭐️️ Meditations [📖](https://www.goodreads.com/book/show/30659.Meditations)
 - [ ] Letters from a Stoic [📖](https://www.goodreads.com/book/show/97411.Letters_from_a_Stoic)
 - [ ] Dialogues and Essays [📖](https://www.goodreads.com/book/show/1933080.Dialogues_and_Essays)
@@ -303,6 +303,7 @@ TODO:
 - [ ] The Four Steps to the Epiphany [📖](https://www.goodreads.com/book/show/762542.The_Four_Steps_to_the_Epiphany)
 - [ ] The Entrepreneur's Guide to Customer Development [📖](https://www.goodreads.com/book/show/9266037-the-entrepreneur-s-guide-to-customer-development)
 - [ ] Async Remote [📖](https://www.goodreads.com/book/show/32883490-async-remote) 
+- [ ] Decisive [📖](https://www.goodreads.com/book/show/15798078-decisive)
 
 ## Religious artefacts
 - [ ] Enuma Elish [📖](https://www.goodreads.com/book/show/233420.Enuma_Elish) 
