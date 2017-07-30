@@ -24,6 +24,8 @@ TODO:
 - [ ] 33 ступеньки в небо [📖](https://www.livelib.ru/book/1000447240-33-stupenki-v-nebo-anatolij-markusha)  
 - [ ] A Mathematicians Miscellany [📖](https://archive.org/details/mathematiciansmi033496mbp) 
 - [ ] ⭐ The Little Book of Hygge: The Danish Way to Live Well [📖](https://www.goodreads.com/book/show/30045683-the-little-book-of-hygge)
+- [ ] A Little Life [📖](https://www.goodreads.com/book/show/22822858-a-little-life)
+- [ ] Confessions of a Terrible Husband: Lessons Learned From a Lumpy Couch [📖](https://www.goodreads.com/book/show/25781351-confessions-of-a-terrible-husband)
 
 ## Philosophy
 - [x] ⭐️️️ ‼️ *A Guide to the Good Life: The Ancient Art of Stoic Joy*[📖](https://www.goodreads.com/book/show/5617966-a-guide-to-the-good-life)
@@ -84,6 +86,8 @@ TODO:
 - [ ] Joy Inc. [📖](https://www.goodreads.com/book/show/18079560-joy-inc) 
 - [ ] Hard Thing About Hard Things [📖](https://www.goodreads.com/book/show/18176747-the-hard-thing-about-hard-things) 
 - [ ] First Impressions: What You Don’t Know About How Others See You [📖](https://www.goodreads.com/book/show/589937.First_Impressions)
+- [ ] Quitter: Closing the Gap Between Your Day Job & Your Dream Job [📖](https://www.goodreads.com/book/show/10836740-quitter)
+- [ ] ⭐️ Do The Work [📖](https://www.goodreads.com/book/show/10645233-do-the-work)
 
 ## UX & Design
 - [x] ‼️ **Badass: Making Users Awesome** [📖](https://www.goodreads.com/book/show/24737268-badass)
