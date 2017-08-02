@@ -122,13 +122,14 @@ TODO:
 - [ ] ️⭐️ **The art and craft of problem solving** [📖](https://www.goodreads.com/book/show/593458.The_Art_and_Craft_of_Problem_Solving) 
 - [ ] ️⭐️ **Conceptual Mathematics: A First Introduction to Categories** [📖](https://www.goodreads.com/book/show/6117276-conceptual-mathematics)
 - [ ] ⭐️ **Paradoxes of Growth: Laws of Global Development of Humanity** [📖](https://www.goodreads.com/book/show/34638152-paradoxes-of-growth)
+- [ ] ⭐️ ‼️ A New Kind Of Science [📖](https://www.goodreads.com/book/show/238558.A_New_Kind_of_Science)
+- [ ] ⭐️ ‼️ Harry Potter and the Methods of Rationality [📖](http://www.hpmor.com/)
 - [ ] A Brief History of Time [📖](https://www.goodreads.com/book/show/3869.A_Brief_History_of_Time)
 - [ ] Sapiens [📖](https://www.goodreads.com/book/show/23692271-sapiens)
 - [ ] Alice in Quantumland [📖](https://www.goodreads.com/book/show/1044095.Alice_in_Quantumland) 
 - [ ] The annotated Turing [📖](http://theannotatedturing.com/) 
 - [ ] Entropy [📖](http://pages.physics.cornell.edu/~sethna/StatMech/EntropyOrderParametersComplexity.pdf)  
 - [ ] Золотой билет. P, NP и границы возможного [📖](https://www.goodreads.com/book/show/17130549-the-golden-ticket) 
-- [ ] ⭐️ ‼️ Harry Potter and the Methods of Rationality [📖](http://www.hpmor.com/)
 
 ## Engineering & Programming
 - [x] ‼️ **Release it**! [📖](https://pragprog.com/book/mnee/release-it) 
