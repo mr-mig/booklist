@@ -19,11 +19,11 @@ TODO:
 # Books
 
 ## Uncategorized 
+- [x] ⭐ The Little Book of Hygge: The Danish Way to Live Well [📖](https://www.goodreads.com/book/show/30045683-the-little-book-of-hygge)
 - [ ] A short history of nearly everything [📖](https://www.goodreads.com/book/show/21.A_Short_History_of_Nearly_Everything)
 - [ ] Werner Siemens [📖](http://www.siemens.com/content/dam/internet/siemens-com/global/company/about/history/personalities/werner-von-siemens/2016-lifelines-werner-von-siemens-web.pdf)
 - [ ] 33 ступеньки в небо [📖](https://www.livelib.ru/book/1000447240-33-stupenki-v-nebo-anatolij-markusha)  
 - [ ] A Mathematicians Miscellany [📖](https://archive.org/details/mathematiciansmi033496mbp) 
-- [ ] ⭐ The Little Book of Hygge: The Danish Way to Live Well [📖](https://www.goodreads.com/book/show/30045683-the-little-book-of-hygge)
 - [ ] A Little Life [📖](https://www.goodreads.com/book/show/22822858-a-little-life)
 - [ ] Confessions of a Terrible Husband: Lessons Learned From a Lumpy Couch [📖](https://www.goodreads.com/book/show/25781351-confessions-of-a-terrible-husband)
 
@@ -310,7 +310,7 @@ TODO:
 - [ ] Async Remote [📖](https://www.goodreads.com/book/show/32883490-async-remote) 
 - [ ] Decisive [📖](https://www.goodreads.com/book/show/15798078-decisive)
 - [ ] The Goal [📖](https://www.goodreads.com/book/show/113934.The_Goal)
-- [ ] ⭐️ Lean Thinking: Banish Waste and Create Wealth in Your Corporation [📖]()
+- [ ] ⭐️ Lean Thinking: Banish Waste and Create Wealth in Your Corporation [📖](https://www.goodreads.com/book/show/289467.Lean_Thinking)
 
 ## Religious artefacts
 - [ ] Enuma Elish [📖](https://www.goodreads.com/book/show/233420.Enuma_Elish) 
