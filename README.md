@@ -309,6 +309,7 @@ TODO:
 - [ ] The Entrepreneur's Guide to Customer Development [📖](https://www.goodreads.com/book/show/9266037-the-entrepreneur-s-guide-to-customer-development)
 - [ ] Async Remote [📖](https://www.goodreads.com/book/show/32883490-async-remote) 
 - [ ] Decisive [📖](https://www.goodreads.com/book/show/15798078-decisive)
+- [ ] The Goal [📖](https://www.goodreads.com/book/show/113934.The_Goal)
 
 ## Religious artefacts
 - [ ] Enuma Elish [📖](https://www.goodreads.com/book/show/233420.Enuma_Elish) 
