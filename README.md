@@ -310,6 +310,7 @@ TODO:
 - [ ] Async Remote [📖](https://www.goodreads.com/book/show/32883490-async-remote) 
 - [ ] Decisive [📖](https://www.goodreads.com/book/show/15798078-decisive)
 - [ ] The Goal [📖](https://www.goodreads.com/book/show/113934.The_Goal)
+- [ ] ⭐️ Lean Thinking: Banish Waste and Create Wealth in Your Corporation [📖]()
 
 ## Religious artefacts
 - [ ] Enuma Elish [📖](https://www.goodreads.com/book/show/233420.Enuma_Elish) 
