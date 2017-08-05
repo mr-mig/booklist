@@ -312,6 +312,7 @@ TODO:
 - [ ] The Goal [📖](https://www.goodreads.com/book/show/113934.The_Goal)
 - [ ] ⭐️ Theory of Constraints [📖](https://www.goodreads.com/book/show/582174.Theory_of_Constraints)
 - [ ] ⭐️ Lean Thinking: Banish Waste and Create Wealth in Your Corporation [📖](https://www.goodreads.com/book/show/289467.Lean_Thinking)
+- [ ] Velocity: Combining Lean, Six Sigma and Theory of Constraints to Achieve Breakthrough Performance [📖](https://www.goodreads.com/book/show/7303540-velocity)
 
 ## Religious artefacts
 - [ ] Enuma Elish [📖](https://www.goodreads.com/book/show/233420.Enuma_Elish) 
