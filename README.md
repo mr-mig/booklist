@@ -310,6 +310,7 @@ TODO:
 - [ ] Async Remote [📖](https://www.goodreads.com/book/show/32883490-async-remote) 
 - [ ] Decisive [📖](https://www.goodreads.com/book/show/15798078-decisive)
 - [ ] The Goal [📖](https://www.goodreads.com/book/show/113934.The_Goal)
+- [ ] ⭐️ Theory of Constraints [📖](https://www.goodreads.com/book/show/582174.Theory_of_Constraints)
 - [ ] ⭐️ Lean Thinking: Banish Waste and Create Wealth in Your Corporation [📖](https://www.goodreads.com/book/show/289467.Lean_Thinking)
 
 ## Religious artefacts
