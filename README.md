@@ -219,6 +219,7 @@ TODO:
 - [ ] ⭐️ **From Novice to Expert** [📖](https://www.goodreads.com/book/show/1368823.From_Novice_to_Expert) 
 - [ ] ⭐️ **The Artist's Way: A Spiritual Path to Higher Creativity** [📖](https://www.goodreads.com/book/show/615570.The_Artist_s_Way)
 - [ ] ⭐️ **Crucial Conversations** [📖](https://www.goodreads.com/book/show/15014.Crucial_Conversations) 
+- [ ] ⭐️ **Getting Past No** [📖](https://www.goodreads.com/book/show/228331.Getting_Past_No)
 - [ ] ⭐ **Talking to Crazy: How to Deal with the Irrational and Impossible People in Your Life** [📖](https://www.goodreads.com/book/show/25644973-talking-to-crazy)
 - [ ] Tools of Titans: The Tactics, Routines, and Habits of Billionaires, Icons, and World-Class Performers [📖](https://www.goodreads.com/book/show/31823677-tools-of-titans)
 - [ ] Big Magic: Creative Living Beyond Fear [📖](https://www.goodreads.com/book/show/24453082-big-magic)
