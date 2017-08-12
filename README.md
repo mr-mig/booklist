@@ -42,7 +42,6 @@ TODO:
 - [x] ‼️ **The Subtle Art Of Not Giving a Fuck** [📖](https://www.goodreads.com/book/show/28259130-the-subtle-art-of-not-giving-a-f-ck)
 - [x] ‼️ **Emotional Intelligence: Why It Can Matter More Than IQ** [📖](https://www.goodreads.com/book/show/26329.Emotional_Intelligence)
 - [x] ‼️ **Solve for Happy: Engineer Your Path to Joy** [📖](https://www.goodreads.com/book/show/30354426-solve-for-happy)
-- [x] ⭐️️️ ‼️ **How to win friends and influence people** [📖](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People)   
 - [ ] ⭐️️️ ‼️ **Feeling Good: The New Mood Therapy** [📖](https://www.goodreads.com/book/show/46674.Feeling_Good)
 - [ ] ⭐️️️ ‼️ **How to Solve It: A New Aspect of Mathematical Method** [📖](https://www.goodreads.com/book/show/192221.How_to_Solve_It)
 - [ ] ⭐️️️ ‼️ **The Joy of Living: Unlocking the Secret and Science of Happiness** [📖](https://www.goodreads.com/book/show/289448.The_Joy_of_Living)
@@ -89,6 +88,10 @@ TODO:
 - [ ] First Impressions: What You Don’t Know About How Others See You [📖](https://www.goodreads.com/book/show/589937.First_Impressions)
 - [ ] Quitter: Closing the Gap Between Your Day Job & Your Dream Job [📖](https://www.goodreads.com/book/show/10836740-quitter)
 - [ ] ⭐️ Do The Work [📖](https://www.goodreads.com/book/show/10645233-do-the-work)
+
+## Social Skills
+- [x] ⭐️️️ ‼️ **How to win friends and influence people** [📖](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People)
+- [ ] ⭐️️️ ‼️ **The Social Skills Guidebook** [📖](https://www.goodreads.com/book/show/28728007-the-social-skills-guidebook)
 
 ## UX & Design
 - [x] ‼️ **Badass: Making Users Awesome** [📖](https://www.goodreads.com/book/show/24737268-badass)
