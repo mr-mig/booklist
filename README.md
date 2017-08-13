@@ -268,6 +268,7 @@ TODO:
 
 ## Marketing
 - [x] The Burned-Out Blogger's Guide to PR [📖](https://www.goodreads.com/book/show/23212278-the-burned-out-blogger-s-guide-to-pr)
+- [ ] ⭐️ ‼️ **The Professional Marketer** [📖](https://www.goodreads.com/book/show/23340620-the-professional-marketer)
 - [ ] ⭐️️️ **15 invaluable laws of growth** [📖](https://www.goodreads.com/book/show/13529210-the-15-invaluable-laws-of-growth) 
 - [ ] ⭐️ **Пиши, Сокращай**  [📖](https://book.glvrd.ru/)  
 - [ ] ⭐️️️ **The 22 Immutable Laws of Marketing** [📖](https://www.goodreads.com/book/show/33449.The_22_Immutable_Laws_of_Marketing) 
