@@ -302,6 +302,7 @@ TODO:
 - [ ] ⭐️ The Richest Man in Babylon [📖](https://www.goodreads.com/book/show/1052.The_Richest_Man_in_Babylon)
 - [ ] ⭐️ The Decision Book: Fifty Models for Strategic Thinking [📖](https://www.goodreads.com/book/show/9793361-the-decision-book)
 - [ ] ⭐️ The Challenger Sale: Taking Control of the Customer Conversation [📖](https://www.goodreads.com/book/show/11910902-the-challenger-sale)
+- [ ] ⭐️ Extreme Programming Explained [📖](https://www.goodreads.com/book/show/67833.Extreme_Programming_Explained)
 - [ ] Rework [📖](https://www.goodreads.com/book/show/6732019-rework)
 - [ ] Agile and Iterative Development: A Manager's Guide [📖](https://www.goodreads.com/book/show/1229810.Agile_and_Iterative_Development)
 - [ ] Balancing Agility and Discipline: A Guide for the Perplexed [📖](https://www.goodreads.com/book/show/771159.Balancing_Agility_and_Discipline)
