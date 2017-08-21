@@ -304,6 +304,7 @@ TODO:
 - [ ] ⭐️ The Challenger Sale: Taking Control of the Customer Conversation [📖](https://www.goodreads.com/book/show/11910902-the-challenger-sale)
 - [ ] Rework [📖](https://www.goodreads.com/book/show/6732019-rework)
 - [ ] Agile and Iterative Development: A Manager's Guide [📖](https://www.goodreads.com/book/show/1229810.Agile_and_Iterative_Development)
+- [ ] Balancing Agility and Discipline: A Guide for the Perplexed [📖](https://www.goodreads.com/book/show/771159.Balancing_Agility_and_Discipline)
 - [ ] Контент-технология: как, где и о чем говорить с клиентами [📖](http://www.ozon.ru/context/detail/id/34541714/)
 - [ ] The War for Talent [📖](https://www.goodreads.com/book/show/691746.The_War_for_Talent)
 - [ ] Playing to win [📖](https://www.goodreads.com/book/show/13586928-playing-to-win) 
