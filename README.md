@@ -26,6 +26,7 @@ TODO:
 - [ ] A Mathematicians Miscellany [📖](https://archive.org/details/mathematiciansmi033496mbp) 
 - [ ] A Little Life [📖](https://www.goodreads.com/book/show/22822858-a-little-life)
 - [ ] Confessions of a Terrible Husband: Lessons Learned From a Lumpy Couch [📖](https://www.goodreads.com/book/show/25781351-confessions-of-a-terrible-husband)
+- [ ] Lisp Hackers [📖](https://www.goodreads.com/book/show/18129140-lisp-hackers)
 
 ## Philosophy
 - [x] ⭐️️️ ‼️ *A Guide to the Good Life: The Ancient Art of Stoic Joy*[📖](https://www.goodreads.com/book/show/5617966-a-guide-to-the-good-life)
