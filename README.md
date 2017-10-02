@@ -83,7 +83,6 @@ TODO:
 - [ ] Coherence: The Secret Science of Brilliant Leadership [📖](https://www.goodreads.com/book/show/18210521-coherence)
 - [ ] Mind Power Into the 21st Century [📖](https://www.goodreads.com/book/show/180089.Mind_Power_Into_the_21st_Century) 
 - [ ] The Organized Mind [📖](https://www.goodreads.com/book/show/18693669-the-organized-mind)
-- [ ] Feeling Good: The New Mood Therapy [📖](https://www.goodreads.com/book/show/46674.Feeling_Good) 
 - [ ] The Art of Possibility [📖](https://www.goodreads.com/book/show/85697.The_Art_of_Possibility) 
 - [ ] Joy Inc. [📖](https://www.goodreads.com/book/show/18079560-joy-inc) 
 - [ ] Hard Thing About Hard Things [📖](https://www.goodreads.com/book/show/18176747-the-hard-thing-about-hard-things) 
