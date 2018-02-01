@@ -110,7 +110,7 @@ TODO:
 
 ## Coaching & Teaching
 - [x] The Coaching Habit: Say Less, Ask More [📖](https://www.goodreads.com/book/show/29342515-the-coaching-habit)
-- [x] ⭐️ **Make it stick: the ` of successful learning** [📖](https://www.goodreads.com/book/show/18770267-make-it-stick) 
+- [x] ⭐️ **Make it stick: the Science of Successful Learning** [📖](https://www.goodreads.com/book/show/18770267-make-it-stick) 
 - [ ] ⭐️ ‼️ **Coaching for Performance** [📖](https://www.goodreads.com/book/show/949515.Coaching_for_Performance)
 - [ ] ⭐️ Free To Learn: Why Unleashing the Instinct to Play Will Make Our Children Happier, More Self-Reliant, and Better Students for Life [📖](https://www.goodreads.com/book/show/15843125-free-to-learn)
 - [ ] HBR Guide to Coaching Employees [📖](https://hbr.org/product/hbr-guide-to-coaching-employees/13990-PBK-ENG) 
