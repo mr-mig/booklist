@@ -29,8 +29,8 @@ TODO:
 - [ ] Confessions of a Terrible Husband: Lessons Learned From a Lumpy Couch [📖](https://www.goodreads.com/book/show/25781351-confessions-of-a-terrible-husband)
 
 ## Philosophy
-- [x] ⭐️️️ ‼️ *A Guide to the Good Life: The Ancient Art of Stoic Joy*[📖](https://www.goodreads.com/book/show/5617966-a-guide-to-the-good-life)
-- [x] ⭐️ ‼️ *The Choice* [📖](https://www.goodreads.com/book/show/4845427-the-choice)
+- [x] ‼️ *A Guide to the Good Life: The Ancient Art of Stoic Joy*[📖](https://www.goodreads.com/book/show/5617966-a-guide-to-the-good-life)
+- [x] ‼️ *The Choice* [📖](https://www.goodreads.com/book/show/4845427-the-choice)
 - [ ] ⭐️️ Meditations [📖](https://www.goodreads.com/book/show/30659.Meditations)
 - [ ] Letters from a Stoic [📖](https://www.goodreads.com/book/show/97411.Letters_from_a_Stoic)
 - [ ] Dialogues and Essays [📖](https://www.goodreads.com/book/show/1933080.Dialogues_and_Essays)
@@ -91,7 +91,7 @@ TODO:
 - [ ] ⭐️ Do The Work [📖](https://www.goodreads.com/book/show/10645233-do-the-work)
 
 ## Social Skills
-- [x] ⭐️️️ ‼️ **How to win friends and influence people** [📖](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People)
+- [x] ‼️ **How to win friends and influence people** [📖](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People)
 - [ ] ⭐️️️ ‼️ **The Social Skills Guidebook** [📖](https://www.goodreads.com/book/show/28728007-the-social-skills-guidebook)
 
 ## UX & Design
@@ -146,9 +146,10 @@ TODO:
 - [x] ‼️ **Soft Skills** [📖](https://www.goodreads.com/book/show/23232941-soft-skills)
 - [x] ‼️ ️**Clean Code** [📖](https://www.goodreads.com/book/show/3735293-clean-code)
 - [x] ‼️️ **Head First Design Patterns** [📖](https://www.goodreads.com/book/show/58128.Head_First_Design_Patterns)
+- [x] ‼️ **The Pragmatic Programmer: From Journeyman to Master** [📖](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer) 
 - [x] Domain Driven Design Distilled [📖](https://www.goodreads.com/book/show/28602719-domain-driven-design-distilled) 
 - [x] How Many Licks?: Or, How to Estimate Damn Near Anything  [📖](https://www.goodreads.com/book/show/6838831-how-many-licks)
-- [x] ⭐️ **Code Complete: A Practical Handbook of Software Construction, Second Edition** [📖](https://www.goodreads.com/book/show/4845.Code_Complete) 
+- [x] **Code Complete: A Practical Handbook of Software Construction, Second Edition** [📖](https://www.goodreads.com/book/show/4845.Code_Complete) 
 - [ ] ⭐️ ‼️️ **High Performance Browser Networking** [📖](https://www.goodreads.com/book/show/17985198-high-performance-browser-networking)
 - [ ] ⭐️ ‼️️ **Structured Computer Organization** [📖](https://www.goodreads.com/book/show/457107.Structured_Computer_Organization)
 - [ ] ⭐️ **Professor Frisby's Mostly Adequate Guide to Functional Programming** [📖](https://www.goodreads.com/book/show/25847352-professor-frisby-s-mostly-adequate-guide-to-functional-programming)
@@ -157,14 +158,13 @@ TODO:
 - [ ] ⭐️ ‼️ **Structure and Implementation of Computer Programs** [📖]() 
 - [ ] ⭐️ ‼️ **Site Reliability Engineering** [📖](http://shop.oreilly.com/product/0636920041528.do) 
 - [ ] ⭐️ ‼️ **Working Effectively with Legacy Code** [📖](https://www.goodreads.com/book/show/44919.Working_Effectively_with_Legacy_Code)
-- [ ] ⭐️ ‼ Object-Oriented Software Construction (2nd Edition) [📖](https://www.goodreads.com/book/show/946106.Object_Oriented_Software_Construction)
-- [ ] ⭐️ ‼ Designing Data-Intensive Applications [📖](https://www.goodreads.com/review/show/1097508700)
+- [ ] ⭐️ ‼️ Object-Oriented Software Construction (2nd Edition) [📖](https://www.goodreads.com/book/show/946106.Object_Oriented_Software_Construction)
+- [ ] ⭐️ ‼️ Designing Data-Intensive Applications [📖](https://www.goodreads.com/review/show/1097508700)
 - [ ] ⭐️ **The nature of software development** [📖](https://pragprog.com/book/rjnsd/the-nature-of-software-development)
 - [ ] ⭐️ **The Algorithm Design Manual 2nd Edition** [📖](https://www.goodreads.com/book/show/425208.The_Algorithm_Design_Manual) 
 - [ ] ⭐️ **The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win** [📖](https://www.goodreads.com/book/show/17255186-the-phoenix-project)
 - [ ] ⭐️ **Functional and Reactive Data Modelling** [📖](https://www.manning.com/books/functional-and-reactive-domain-modeling) 
 - [ ] ⭐️ **Domain Driven Design Quickly** [📖](https://www.dropbox.com/s/h5cnmze08xsr9hw/DomainDrivenDesignQuicklyOnline.pdf)  
-- [ ] ⭐️ **The Pragmatic Programmer: From Journeyman to Master** [📖](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer) 
 - [ ] ⭐️ **Software Engineering, 9th edition** [📖](https://www.goodreads.com/book/show/7947682-software-engineering) 
 - [ ] ⭐️ **Software Engineering: A Practitioner's Approach** [📖](https://www.goodreads.com/book/show/142783.Software_Engineering) 
 - [ ] ⭐️ **SWEBOK** [📖](https://www.goodreads.com/book/show/23293359-software-engineering-body-of-knowledge) 
@@ -270,6 +270,7 @@ TODO:
 
 ## Marketing
 - [x] The Burned-Out Blogger's Guide to PR [📖](https://www.goodreads.com/book/show/23212278-the-burned-out-blogger-s-guide-to-pr)
+- [x] ‼️ Crossing the Chasm [📖](https://www.goodreads.com/book/show/61329.Crossing_the_Chasm)
 - [ ] ⭐️ ‼️ **The Professional Marketer** [📖](https://www.goodreads.com/book/show/23340620-the-professional-marketer)
 - [ ] ⭐️️️ **15 invaluable laws of growth** [📖](https://www.goodreads.com/book/show/13529210-the-15-invaluable-laws-of-growth) 
 - [ ] ⭐️ **Пиши, Сокращай**  [📖](https://book.glvrd.ru/)  
@@ -279,20 +280,19 @@ TODO:
 - [ ] ⭐️ **On Writing Well: The Classic Guide to Writing Nonfiction** [📖](https://www.goodreads.com/book/show/53343.On_Writing_Well) 
 - [ ] Made to Stick: Why Some Ideas Survive and Others Die [📖](https://www.goodreads.com/book/show/69242.Made_to_Stick) 
 - [ ] Purple Cow: Transform Your Business By Being Remarkable [📖](https://www.goodreads.com/book/show/641604.Purple_Cow) 
-- [ ] Crossing the Chasm [📖](https://www.goodreads.com/book/show/61329.Crossing_the_Chasm)
 
 ## Management, Entrepreneurship, Strategy & Decision Making
 - [x] ‼️ **The Secrets of Consulting** [📖](https://www.goodreads.com/book/show/566213.The_Secrets_of_Consulting)
 - [x] The Lean Startup [📖](https://www.goodreads.com/book/show/10127019-the-lean-startup)
 - [x] ⭐️ ‼️ **Start Small, Stay Small: A Developer's Guide to Launching a Startup** [📖](https://www.goodreads.com/book/show/9167158-start-small-stay-small)  
 - [x] ⭐️ ‼️ **E-myth revisited** [📖](https://www.goodreads.com/book/show/81948.The_E_Myth_Revisited) 
+- [x] ⭐️ **The ten day MBA** [📖](https://www.goodreads.com/book/show/32056475-the-10-day-mba)
 - [ ] ⭐ Masters of Doom: How Two Guys Created an Empire and Transformed Pop Culture [📖](https://www.goodreads.com/book/show/222146.Masters_of_Doom)
 - [ ] ⭐ ‼️ **The art of Strategy: A Game Theorist's Guide to Success in Business and Life** [📖](https://www.goodreads.com/book/show/2423424.The_Art_of_Strategy)
 - [ ] ⭐️ ‼️ **Five languages of appreciation** [📖](https://www.goodreads.com/book/show/11259079-the-five-languages-of-appreciation-in-the-workplace)
 - [ ] ⭐️ **The Advantage** [📖](https://www.goodreads.com/book/show/12975375-the-advantage)
 - [ ] ⭐️ **The Black Swan: The Impact of the Highly Improbable** [📖](https://www.goodreads.com/book/show/242472.The_Black_Swan)
 - [ ] ⭐️️️ ‼️ **Antifragile** [📖](http://www.goodreads.com/book/show/13530973-antifragile)
-- [ ] ⭐️ **The ten day MBA** [📖](https://www.goodreads.com/book/show/32056475-the-10-day-mba)  
 - [ ] ⭐️ **More Fearless Change** [📖](https://www.goodreads.com/book/show/23287939-more-fearless-change) 
 - [ ] ⭐️ **Flawless Consulting** [📖](https://www.goodreads.com/book/show/500884.Flawless_Consulting) 
 - [ ] ⭐️ **Peopleware** [📖](https://www.goodreads.com/book/show/67825.Peopleware)
