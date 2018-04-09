@@ -149,6 +149,7 @@ You Don’t Know About How Others See You [📖](https://www.goodreads.com/book/
 - [x] ‼️ ️**Clean Code** [📖](https://www.goodreads.com/book/show/3735293-clean-code)
 - [x] ‼️️ **Head First Design Patterns** [📖](https://www.goodreads.com/book/show/58128.Head_First_Design_Patterns)
 - [x] ‼️ **The Pragmatic Programmer: From Journeyman to Master** [📖](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer) 
+- [x] Clean Architecture [📖](https://www.goodreads.com/book/show/18043011-clean-architecture)
 - [x] Domain Driven Design Distilled [📖](https://www.goodreads.com/book/show/28602719-domain-driven-design-distilled) 
 - [x] How Many Licks?: Or, How to Estimate Damn Near Anything  [📖](https://www.goodreads.com/book/show/6838831-how-many-licks)
 - [x] **Code Complete: A Practical Handbook of Software Construction, Second Edition** [📖](https://www.goodreads.com/book/show/4845.Code_Complete) 
