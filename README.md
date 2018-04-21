@@ -45,6 +45,7 @@ TODO:
 - [x] ‼️ **Emotional Intelligence: Why It Can Matter More Than IQ** [📖](https://www.goodreads.com/book/show/26329.Emotional_Intelligence)
 - [x] ‼️ **Solve for Happy: Engineer Your Path to Joy** [📖](https://www.goodreads.com/book/show/30354426-solve-for-happy)
 - [x] Think and Grow Rich [📖](https://www.goodreads.com/book/show/30186948-think-and-grow-rich) 
+- [x] Красная таблетка [📖](https://www.goodreads.com/book/show/36695564)
 - [ ] ⭐️️️ ‼️ **Feeling Good: The New Mood Therapy** [📖](https://www.goodreads.com/book/show/46674.Feeling_Good)
 - [ ] ⭐️️️ ‼️ **How to Solve It: A New Aspect of Mathematical Method** [📖](https://www.goodreads.com/book/show/192221.How_to_Solve_It)
 - [ ] ⭐️️️ ‼️ **The Joy of Living: Unlocking the Secret and Science of Happiness** [📖](https://www.goodreads.com/book/show/289448.The_Joy_of_Living)
@@ -93,8 +94,12 @@ You Don’t Know About How Others See You [📖](https://www.goodreads.com/book/
 - [ ] ⭐️ Do The Work [📖](https://www.goodreads.com/book/show/10645233-do-the-work)
 
 ## Social Skills
+- [x] ️‼️ **Difficult Conversations: How to Discuss What Matters Most** [📖](https://www.goodreads.com/book/show/774088.Difficult_Conversations)
 - [x] ‼️ **How to win friends and influence people** [📖](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People)
 - [ ] ⭐️️️ ‼️ **The Social Skills Guidebook** [📖](https://www.goodreads.com/book/show/28728007-the-social-skills-guidebook)
+- [ ] ⭐️ **Crucial Conversations** [📖](https://www.goodreads.com/book/show/15014.Crucial_Conversations) 
+- [ ] ⭐️ **Getting Past No** [📖](https://www.goodreads.com/book/show/228331.Getting_Past_No)
+- [ ] ⭐ **Talking to Crazy: How to Deal with the Irrational and Impossible People in Your Life** [📖](https://www.goodreads.com/book/show/25644973-talking-to-crazy)
 
 ## UX & Design
 - [x] ‼️ **Badass: Making Users Awesome** [📖](https://www.goodreads.com/book/show/24737268-badass)
@@ -213,7 +218,6 @@ You Don’t Know About How Others See You [📖](https://www.goodreads.com/book/
 - [ ] Software Architecture For Developers [📖](https://www.goodreads.com/book/show/33221518-software-architecture-for-developers)
  
 ## Career, Skill Acquisition, Personal Growth
-- [x] ️‼️ **Difficult Conversations: How to Discuss What Matters Most** [📖](https://www.goodreads.com/book/show/774088.Difficult_Conversations)
 - [x] ‼️ **Thinking, Fast and Slow** [📖](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow)
 - [x] ‼️ **Getting Things Done (2015 edition)** [📖](https://www.goodreads.com/book/show/22521573-getting-things-done)
 - [x] ‼️ **Deep Work** [📖](https://www.goodreads.com/book/show/25744928-deep-work)
@@ -226,9 +230,6 @@ You Don’t Know About How Others See You [📖](https://www.goodreads.com/book/
 - [ ] ⭐️ **Better: A Surgeon’s Notes on Performance** [📖](https://www.goodreads.com/book/show/213233.Better) 
 - [ ] ⭐️ **From Novice to Expert** [📖](https://www.goodreads.com/book/show/1368823.From_Novice_to_Expert) 
 - [ ] ⭐️ **The Artist's Way: A Spiritual Path to Higher Creativity** [📖](https://www.goodreads.com/book/show/615570.The_Artist_s_Way)
-- [ ] ⭐️ **Crucial Conversations** [📖](https://www.goodreads.com/book/show/15014.Crucial_Conversations) 
-- [ ] ⭐️ **Getting Past No** [📖](https://www.goodreads.com/book/show/228331.Getting_Past_No)
-- [ ] ⭐ **Talking to Crazy: How to Deal with the Irrational and Impossible People in Your Life** [📖](https://www.goodreads.com/book/show/25644973-talking-to-crazy)
 - [ ] Tools of Titans: The Tactics, Routines, and Habits of Billionaires, Icons, and World-Class Performers [📖](https://www.goodreads.com/book/show/31823677-tools-of-titans)
 - [ ] Big Magic: Creative Living Beyond Fear [📖](https://www.goodreads.com/book/show/24453082-big-magic)
 - [ ] Программирование. Ступени успешной карьеры [📖](https://www.ozon.ru/context/detail/id/2644499/) 
