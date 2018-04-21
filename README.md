@@ -46,6 +46,7 @@ TODO:
 - [x] ‼️ **Solve for Happy: Engineer Your Path to Joy** [📖](https://www.goodreads.com/book/show/30354426-solve-for-happy)
 - [x] Think and Grow Rich [📖](https://www.goodreads.com/book/show/30186948-think-and-grow-rich) 
 - [x] Красная таблетка [📖](https://www.goodreads.com/book/show/36695564)
+- [x] Winter Blues [📖](https://www.goodreads.com/book/show/685532.Winter_Blues)
 - [ ] ⭐️️️ ‼️ **Feeling Good: The New Mood Therapy** [📖](https://www.goodreads.com/book/show/46674.Feeling_Good)
 - [ ] ⭐️️️ ‼️ **How to Solve It: A New Aspect of Mathematical Method** [📖](https://www.goodreads.com/book/show/192221.How_to_Solve_It)
 - [ ] ⭐️️️ ‼️ **The Joy of Living: Unlocking the Secret and Science of Happiness** [📖](https://www.goodreads.com/book/show/289448.The_Joy_of_Living)
@@ -100,6 +101,8 @@ You Don’t Know About How Others See You [📖](https://www.goodreads.com/book/
 - [ ] ⭐️ **Crucial Conversations** [📖](https://www.goodreads.com/book/show/15014.Crucial_Conversations) 
 - [ ] ⭐️ **Getting Past No** [📖](https://www.goodreads.com/book/show/228331.Getting_Past_No)
 - [ ] ⭐ **Talking to Crazy: How to Deal with the Irrational and Impossible People in Your Life** [📖](https://www.goodreads.com/book/show/25644973-talking-to-crazy)
+- [ ] Never Eat Alone: And Other Secrets to Success, One Relationship at a Time [📖](https://www.goodreads.com/book/show/84699.Never_Eat_Alone)
+
 
 ## UX & Design
 - [x] ‼️ **Badass: Making Users Awesome** [📖](https://www.goodreads.com/book/show/24737268-badass)
@@ -243,7 +246,6 @@ You Don’t Know About How Others See You [📖](https://www.goodreads.com/book/
 - [ ] Drive [📖](https://www.goodreads.com/book/show/6452796-drive) 
 - [ ] The Start-up of You [📖](https://www.goodreads.com/book/show/12030438-the-start-up-of-you)
 - [ ] The Denial of Death [📖](https://www.goodreads.com/book/show/2761.The_Denial_of_Death)
-- [ ] Never Eat Alone: And Other Secrets to Success, One Relationship at a Time [📖](https://www.goodreads.com/book/show/84699.Never_Eat_Alone)
 
 ## Habits & Lifestyle
 - [x] ‼️ **Mini Habits** [📖](https://www.goodreads.com/book/show/20567918-mini-habits) 
