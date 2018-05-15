@@ -40,6 +40,7 @@ TODO:
 
 ## Mindset Enhancement
 - [x] ‼️ **Learned Optimism** [📖](https://www.goodreads.com/book/show/26123.Learned_Optimism) 
+- [x] ⭐️️️ ‼️ **Feeling Good: The New Mood Therapy** [📖](https://www.goodreads.com/book/show/46674.Feeling_Good)
 - [x] ‼️ **The 7 Habits of Highly Effective People** [📖](https://www.goodreads.com/book/show/36072.The_7_Habits_of_Highly_Effective_People)
 - [x] ‼️ **The Subtle Art Of Not Giving a Fuck** [📖](https://www.goodreads.com/book/show/28259130-the-subtle-art-of-not-giving-a-f-ck)
 - [x] ‼️ **Emotional Intelligence: Why It Can Matter More Than IQ** [📖](https://www.goodreads.com/book/show/26329.Emotional_Intelligence)
@@ -48,7 +49,6 @@ TODO:
 - [x] Красная таблетка [📖](https://www.goodreads.com/book/show/36695564)
 - [x] Winter Blues [📖](https://www.goodreads.com/book/show/685532.Winter_Blues)
 - [x] ⭐️️ **The Art Of Loving** [📖](https://www.goodreads.com/book/show/14142.The_Art_of_Loving) 
-- [ ] ⭐️️️ ‼️ **Feeling Good: The New Mood Therapy** [📖](https://www.goodreads.com/book/show/46674.Feeling_Good)
 - [ ] ⭐️️️ ‼️ **How to Solve It: A New Aspect of Mathematical Method** [📖](https://www.goodreads.com/book/show/192221.How_to_Solve_It)
 - [ ] ⭐️️️ ‼️ **The Joy of Living: Unlocking the Secret and Science of Happiness** [📖](https://www.goodreads.com/book/show/289448.The_Joy_of_Living)
 - [ ] ⭐️ ‼️ **The Art of Thinking Clearly** [📖](https://www.goodreads.com/book/show/16248196-the-art-of-thinking-clearly)
