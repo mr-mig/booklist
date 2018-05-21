@@ -37,6 +37,8 @@ TODO:
 - [ ] Dialogues and Essays [📖](https://www.goodreads.com/book/show/1933080.Dialogues_and_Essays)
 - [ ] The Myth of Sisyphus [📖](https://www.goodreads.com/book/show/91950.The_Myth_of_Sisyphus)
 - [ ] The Rebel: An Essay on Man in Revolt [📖](https://www.goodreads.com/book/show/11990.The_Rebel)
+- [ ] Essentialism: The Disciplined Pursuit of Less [📖](https://www.goodreads.com/book/show/18077875-essentialism)
+- [ ] The Tides of Mind [📖](https://www.goodreads.com/book/show/25622877-the-tides-of-mind)
 
 ## Mindset Enhancement
 - [x] ‼️ **Learned Optimism** [📖](https://www.goodreads.com/book/show/26123.Learned_Optimism) 
@@ -49,6 +51,7 @@ TODO:
 - [x] Красная таблетка [📖](https://www.goodreads.com/book/show/36695564)
 - [x] Winter Blues [📖](https://www.goodreads.com/book/show/685532.Winter_Blues)
 - [x] ⭐️️ **The Art Of Loving** [📖](https://www.goodreads.com/book/show/14142.The_Art_of_Loving) 
+- [ ] ⭐️ **Search Inside Yourself** [📖](https://www.goodreads.com/book/show/12921211-search-inside-yourself) 
 - [ ] ⭐️️️ ‼️ **How to Solve It: A New Aspect of Mathematical Method** [📖](https://www.goodreads.com/book/show/192221.How_to_Solve_It)
 - [ ] ⭐️️️ ‼️ **The Joy of Living: Unlocking the Secret and Science of Happiness** [📖](https://www.goodreads.com/book/show/289448.The_Joy_of_Living)
 - [ ] ⭐️ ‼️ **The Art of Thinking Clearly** [📖](https://www.goodreads.com/book/show/16248196-the-art-of-thinking-clearly)
@@ -62,7 +65,6 @@ TODO:
 - [ ] ⭐️ **Willpower Instinct**  [📖](https://www.goodreads.com/book/show/10865206-the-willpower-instinct) 
 - [ ] ⭐️ **Mindset: The New Psychology of Success** [📖](https://www.goodreads.com/book/show/40745.Mindset)
 - [ ] ⭐️ **Parenting with Presence** [📖](https://www.goodreads.com/book/show/22750360-parenting-with-presence) 
-- [ ] ⭐️ **Search Inside Yourself** [📖](https://www.goodreads.com/book/show/12921211-search-inside-yourself) 
 - [ ] ⭐️ **The Secret of Quantum Living** [📖](https://www.goodreads.com/book/show/7927352-the-secret-of-quantum-living) 
 - [ ] ⭐️ **Predictably Irrational** [📖](https://www.goodreads.com/book/show/1713426.Predictably_Irrational)
 - [ ] ⭐️ **The Handbook of Emotional Intelligence** [📖](https://www.goodreads.com/book/show/90199.The_Handbook_of_Emotional_Intelligence)  
@@ -93,6 +95,8 @@ TODO:
 You Don’t Know About How Others See You [📖](https://www.goodreads.com/book/show/589937.First_Impressions)
 - [ ] Quitter: Closing the Gap Between Your Day Job & Your Dream Job [📖](https://www.goodreads.com/book/show/10836740-quitter)
 - [ ] ⭐️ Do The Work [📖](https://www.goodreads.com/book/show/10645233-do-the-work)
+- [ ] Quiet: The Power of Introverts in a World That Can't Stop Talking [📖](https://www.goodreads.com/book/show/8520610-quiet)
+
 
 ## Social Skills
 - [x] ️‼️ **Difficult Conversations: How to Discuss What Matters Most** [📖](https://www.goodreads.com/book/show/774088.Difficult_Conversations)
@@ -102,6 +106,7 @@ You Don’t Know About How Others See You [📖](https://www.goodreads.com/book/
 - [ ] ⭐️ **Getting Past No** [📖](https://www.goodreads.com/book/show/228331.Getting_Past_No)
 - [ ] ⭐ **Talking to Crazy: How to Deal with the Irrational and Impossible People in Your Life** [📖](https://www.goodreads.com/book/show/25644973-talking-to-crazy)
 - [ ] Never Eat Alone: And Other Secrets to Success, One Relationship at a Time [📖](https://www.goodreads.com/book/show/84699.Never_Eat_Alone)
+- [ ] Non violent communication [📖](https://www.goodreads.com/book/show/560861.Non_Violent_Communication)
 
 
 ## UX & Design
@@ -162,11 +167,13 @@ You Don’t Know About How Others See You [📖](https://www.goodreads.com/book/
 - [x] How Many Licks?: Or, How to Estimate Damn Near Anything  [📖](https://www.goodreads.com/book/show/6838831-how-many-licks)
 - [x] **Code Complete: A Practical Handbook of Software Construction, Second Edition** [📖](https://www.goodreads.com/book/show/4845.Code_Complete) 
 - [ ] ⭐️ ‼️️ **High Performance Browser Networking** [📖](https://www.goodreads.com/book/show/17985198-high-performance-browser-networking)
+- [ ] ⭐ High Performance JavaScript [📖](https://www.goodreads.com/book/show/7008656-high-performance-javascript)
 - [ ] ⭐️ ‼️️ **Structured Computer Organization** [📖](https://www.goodreads.com/book/show/457107.Structured_Computer_Organization)
 - [ ] ⭐️ **Professor Frisby's Mostly Adequate Guide to Functional Programming** [📖](https://www.goodreads.com/book/show/25847352-professor-frisby-s-mostly-adequate-guide-to-functional-programming)
 - [ ] ⭐️️ ‼️️️ **Grokking Algorithms** [📖](https://www.goodreads.com/book/show/22847284-grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curio)
 - [ ] ⭐️ **Programming Beyond Practices** [📖](https://www.goodreads.com/book/show/29895093-programming-beyond-practices) 
-- [ ] ⭐️ ‼️ **Structure and Implementation of Computer Programs** [📖]() 
+- [ ] ⭐️ ‼️ **Structure and Interpretation of Computer Programs** [📖](https://www.goodreads.com/book/show/43713.Structure_and_Interpretation_of_Computer_Programs) 
+- [ ] ⭐ Thinking Forth [📖](https://www.goodreads.com/book/show/2047737.Thinking_Forth)
 - [ ] ⭐️ ‼️ **Site Reliability Engineering** [📖](http://shop.oreilly.com/product/0636920041528.do) 
 - [ ] ⭐️ ‼️ **Working Effectively with Legacy Code** [📖](https://www.goodreads.com/book/show/44919.Working_Effectively_with_Legacy_Code)
 - [ ] ⭐️ ‼️ Object-Oriented Software Construction (2nd Edition) [📖](https://www.goodreads.com/book/show/946106.Object_Oriented_Software_Construction)
@@ -219,6 +226,8 @@ You Don’t Know About How Others See You [📖](https://www.goodreads.com/book/
 - [ ] Exploratory Software Testing [📖](https://www.goodreads.com/book/show/6828590-exploratory-software-testing)
 - [ ] Testing Computer Software [📖](https://www.goodreads.com/book/show/663621.Testing_Computer_Software)
 - [ ] Software Architecture For Developers [📖](https://www.goodreads.com/book/show/33221518-software-architecture-for-developers)
+- [ ] Software Architecture: Perspectives on an Emerging Discipline [📖](https://www.goodreads.com/book/show/224110.Software_Architecture)
+- [ ] Sprint:  How to Solve Big Problems and Test New Ideas in Just Five Days [📖](https://www.goodreads.com/book/show/25814544-sprint)
  
 ## Career, Skill Acquisition, Personal Growth
 - [x] ‼️ **Thinking, Fast and Slow** [📖](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow)
@@ -246,6 +255,7 @@ You Don’t Know About How Others See You [📖](https://www.goodreads.com/book/
 - [ ] Drive [📖](https://www.goodreads.com/book/show/6452796-drive) 
 - [ ] The Start-up of You [📖](https://www.goodreads.com/book/show/12030438-the-start-up-of-you)
 - [ ] The Denial of Death [📖](https://www.goodreads.com/book/show/2761.The_Denial_of_Death)
+- [ ] When: The Scientific Secrets of Perfect Timing [📖](https://www.goodreads.com/book/show/35412097-when)
 
 ## Habits & Lifestyle
 - [x] ‼️ **Mini Habits** [📖](https://www.goodreads.com/book/show/20567918-mini-habits) 
@@ -313,6 +323,8 @@ You Don’t Know About How Others See You [📖](https://www.goodreads.com/book/
 - [ ] ⭐️ Professional Software Development [📖](https://www.goodreads.com/book/show/93893.Professional_Software_Development)
 - [ ] Rework [📖](https://www.goodreads.com/book/show/6732019-rework)
 - [ ] Agile and Iterative Development: A Manager's Guide [📖](https://www.goodreads.com/book/show/1229810.Agile_and_Iterative_Development)
+- [ ] ⭐ The Manager's Path [📖](https://www.goodreads.com/book/show/33369254-the-manager-s-path)
+- [ ] Managing Humans: Biting and Humorous Tales of a Software Engineering Manager [📖](https://www.goodreads.com/book/show/1317946.Managing_Humans)
 - [ ] Balancing Agility and Discipline: A Guide for the Perplexed [📖](https://www.goodreads.com/book/show/771159.Balancing_Agility_and_Discipline)
 - [ ] Контент-технология: как, где и о чем говорить с клиентами [📖](http://www.ozon.ru/context/detail/id/34541714/)
 - [ ] The War for Talent [📖](https://www.goodreads.com/book/show/691746.The_War_for_Talent)
@@ -326,12 +338,17 @@ You Don’t Know About How Others See You [📖](https://www.goodreads.com/book/
 - [ ] Your Strategy Needs a Strategy [📖](https://www.goodreads.com/book/show/23258983-your-strategy-needs-a-strategy) 
 - [ ] The Four Steps to the Epiphany [📖](https://www.goodreads.com/book/show/762542.The_Four_Steps_to_the_Epiphany)
 - [ ] The Entrepreneur's Guide to Customer Development [📖](https://www.goodreads.com/book/show/9266037-the-entrepreneur-s-guide-to-customer-development)
+- [ ] Customers for Life [📖](https://www.goodreads.com/book/show/765884.Customers_for_Life)
 - [ ] Async Remote [📖](https://www.goodreads.com/book/show/32883490-async-remote) 
 - [ ] Decisive [📖](https://www.goodreads.com/book/show/15798078-decisive)
 - [ ] The Goal [📖](https://www.goodreads.com/book/show/113934.The_Goal)
 - [ ] ⭐️ Theory of Constraints [📖](https://www.goodreads.com/book/show/582174.Theory_of_Constraints)
 - [ ] ⭐️ Lean Thinking: Banish Waste and Create Wealth in Your Corporation [📖](https://www.goodreads.com/book/show/289467.Lean_Thinking)
 - [ ] Velocity: Combining Lean, Six Sigma and Theory of Constraints to Achieve Breakthrough Performance [📖](https://www.goodreads.com/book/show/7303540-velocity)
+- [ ] What They Don't Teach You at Harvard Business School: Notes from a Street-Smart Executive [📖](https://www.goodreads.com/book/show/467754.What_They_Don_t_Teach_You_at_Harvard_Business_School)
+- [ ] Creating a Software Engineering Culture [📖](https://www.goodreads.com/book/show/191913.Creating_a_Software_Engineering_Culture)
+- [ ] ⭐ The 21 Irrefutable Laws of Leadership: Follow Them and People Will Follow You [📖](https://www.goodreads.com/book/show/815716.The_21_Irrefutable_Laws_of_Leadership)
+- [ ]
 
 ## Religious artefacts
 - [ ] Enuma Elish [📖](https://www.goodreads.com/book/show/233420.Enuma_Elish) 
