@@ -129,8 +129,10 @@ You Don’t Know About How Others See You [📖](https://www.goodreads.com/book/
 - [x] ⭐️ HBR Guide to Coaching Employees [📖](https://hbr.org/product/hbr-guide-to-coaching-employees/13990-PBK-ENG) 
 - [ ] ⭐️ ‼️ **Coaching for Performance** [📖](https://www.goodreads.com/book/show/949515.Coaching_for_Performance)
 - [ ] ⭐️ Free To Learn: Why Unleashing the Instinct to Play Will Make Our Children Happier, More Self-Reliant, and Better Students for Life [📖](https://www.goodreads.com/book/show/15843125-free-to-learn)
+- [ ] ⭐️ The New Education [📖](https://www.goodreads.com/book/show/33784506-the-new-education)
 - [ ] Open: How We’ll Work, Live and Learn In The Future [📖](https://www.goodreads.com/book/show/18730272-open)
 - [ ] A Mathematician’s Lament [📖](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf)
+- [ ] ⭐️ ‼️ Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman [📖](https://www.goodreads.com/book/show/5608045-apprenticeship-patterns)
 
 ## Health
 - [ ] Death by Food Pyramid [📖](https://www.goodreads.com/book/show/18054967-death-by-food-pyramid) 
@@ -152,6 +154,7 @@ You Don’t Know About How Others See You [📖](https://www.goodreads.com/book/
 - [ ] The annotated Turing [📖](http://theannotatedturing.com/) 
 - [ ] Entropy [📖](http://pages.physics.cornell.edu/~sethna/StatMech/EntropyOrderParametersComplexity.pdf)  
 - [ ] Золотой билет. P, NP и границы возможного [📖](https://www.goodreads.com/book/show/17130549-the-golden-ticket) 
+- [ ] Scale [📖](https://www.goodreads.com/book/show/31670196-scale)
 
 ## Engineering & Programming
 - [x] ‼️ **Release it**! [📖](https://pragprog.com/book/mnee/release-it) 
@@ -166,6 +169,9 @@ You Don’t Know About How Others See You [📖](https://www.goodreads.com/book/
 - [x] Domain Driven Design Distilled [📖](https://www.goodreads.com/book/show/28602719-domain-driven-design-distilled) 
 - [x] How Many Licks?: Or, How to Estimate Damn Near Anything  [📖](https://www.goodreads.com/book/show/6838831-how-many-licks)
 - [x] **Code Complete: A Practical Handbook of Software Construction, Second Edition** [📖](https://www.goodreads.com/book/show/4845.Code_Complete) 
+- [ ] ⭐ ‼️ Basic Category Theory [📖](https://www.goodreads.com/book/show/22108484-basic-category-theory)
+- [ ] ⭐ ‼️ **The Art of Doing Science and Engineering** [📖](https://www.goodreads.com/book/show/530415.The_Art_of_Doing_Science_and_Engineering)
+- [ ] ⭐️ ‼️️ **Domain Modeling Made Functional** [📖](https://www.goodreads.com/book/show/34921689-domain-modeling-made-functional)
 - [ ] ⭐️ ‼️️ **High Performance Browser Networking** [📖](https://www.goodreads.com/book/show/17985198-high-performance-browser-networking)
 - [ ] ⭐ High Performance JavaScript [📖](https://www.goodreads.com/book/show/7008656-high-performance-javascript)
 - [ ] ⭐️ ‼️️ **Structured Computer Organization** [📖](https://www.goodreads.com/book/show/457107.Structured_Computer_Organization)
@@ -194,6 +200,11 @@ You Don’t Know About How Others See You [📖](https://www.goodreads.com/book/
 - [ ] ⭐️ **Production Ready Microservices** [📖](https://www.goodreads.com/book/show/33252815-production-ready-microservices) 
 - [ ] ⭐ Reactive Messaging Patterns with the Actor Model [📖](https://www.goodreads.com/book/show/33257823-reactive-messaging-patterns-with-the-actor-model)
 - [ ] ⭐ 99 Bottles of OOP [📖](https://www.sandimetz.com/99bottles)
+- [ ] ⭐️ *Designing for Performance: Weighing Aesthetics and Speed* [📖](https://www.goodreads.com/book/show/22375951-designing-for-performance)
+- [ ] ⭐ Practical UML Statecharts in C/C++ [](https://www.goodreads.com/book/show/4923807-practical-uml-statecharts-in-c-c)
+- [ ] ⭐ Constructing the User Interface with Statecharts [📖](https://www.goodreads.com/book/show/4589003-constructing-the-user-interface-with-statecharts)
+- [ ] ⭐ Paradigms of Artificial Intelligence Programming [📖](https://www.goodreads.com/book/show/83884.Paradigms_of_Artificial_Intelligence_Programming)
+- [ ] ⭐ Getting Clojure [📖](https://www.goodreads.com/book/show/38204226-getting-clojure)
 - [ ] TypeScript Deep Dive [📖](https://www.gitbook.com/book/basarat/typescript/details)
 - [ ] How Google Tests Software [📖](https://www.goodreads.com/book/show/13105440-how-google-tests-software)
 - [ ] Seven Concurrency Models in Seven Weeks [📖](https://www.goodreads.com/book/show/18467564-seven-concurrency-models-in-seven-weeks)
@@ -228,7 +239,12 @@ You Don’t Know About How Others See You [📖](https://www.goodreads.com/book/
 - [ ] Software Architecture For Developers [📖](https://www.goodreads.com/book/show/33221518-software-architecture-for-developers)
 - [ ] Software Architecture: Perspectives on an Emerging Discipline [📖](https://www.goodreads.com/book/show/224110.Software_Architecture)
 - [ ] Sprint:  How to Solve Big Problems and Test New Ideas in Just Five Days [📖](https://www.goodreads.com/book/show/25814544-sprint)
- 
+- [ ] A Philosophy of Software Design [📖](https://www.goodreads.com/book/show/39996759-a-philosophy-of-software-design)
+- [ ] Design it! [📖](https://pragprog.com/book/mkdsa/design-it)
+- [ ] Building Evolutionary Architectures [📖](https://www.goodreads.com/book/show/35755822-building-evolutionary-architectures)
+- [ ] Programming In Martin Löf's Type Theory: An Introduction [📖](https://www.goodreads.com/book/show/3400116-programming-in-martin-l-f-s-type-theory)
+- [ ] The Zen Programmer [📖](https://www.goodreads.com/book/show/18988962-the-zen-programmer)
+
 ## Career, Skill Acquisition, Personal Growth
 - [x] ‼️ **Thinking, Fast and Slow** [📖](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow)
 - [x] ‼️ **Getting Things Done (2015 edition)** [📖](https://www.goodreads.com/book/show/22521573-getting-things-done)
@@ -238,10 +254,13 @@ You Don’t Know About How Others See You [📖](https://www.goodreads.com/book/
 - [x] ⭐️ **Work rules!** [📖](https://www.goodreads.com/book/show/22875447-work-rules)
 - [x] Камасутра для оратора [📖](https://www.goodreads.com/book/show/11159197-10) 
 - [x] Из связей в князи [📖](https://www.dropbox.com/s/tceqpxqbhv2s16i/%D0%98%D0%B7_%D1%81%D0%B2%D1%8F%D0%B7%D0%B5%D0%B9_%D0%B2_%D0%BA%D0%BD%D1%8F%D0%B7%D0%B8_%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC_%D0%A7%D0%B5%D1%80%D0%BD%D0%BE%D0%B2.pdf)
-- [ ] ‼️⭐️ **Mastery** [📖](https://www.goodreads.com/book/show/13589182-mastery)
+- [x] How to Do What You Love & Earn What You’re Worth as a Programmer [📖](https://www.goodreads.com/book/show/13485352-how-to-do-what-you-love-earn-what-you-re-worth-as-a-programmer)
+- [ ] ⭐️ ‼️ **Mastery** [📖](https://www.goodreads.com/book/show/13589182-mastery)
+- [ ] ⭐️ ‼️ **Pragmatic Thinkig and Learning** [📖](https://www.goodreads.com/book/show/3063393-pragmatic-thinking-and-learning)
 - [ ] ⭐️ **Better: A Surgeon’s Notes on Performance** [📖](https://www.goodreads.com/book/show/213233.Better) 
 - [ ] ⭐️ **From Novice to Expert** [📖](https://www.goodreads.com/book/show/1368823.From_Novice_to_Expert) 
 - [ ] ⭐️ **The Artist's Way: A Spiritual Path to Higher Creativity** [📖](https://www.goodreads.com/book/show/615570.The_Artist_s_Way)
+- [ ] ⭐️ **Systems Thinking Made Simple** [📖](https://www.goodreads.com/book/show/25956449-systems-thinking-made-simple)
 - [ ] Tools of Titans: The Tactics, Routines, and Habits of Billionaires, Icons, and World-Class Performers [📖](https://www.goodreads.com/book/show/31823677-tools-of-titans)
 - [ ] Big Magic: Creative Living Beyond Fear [📖](https://www.goodreads.com/book/show/24453082-big-magic)
 - [ ] Программирование. Ступени успешной карьеры [📖](https://www.ozon.ru/context/detail/id/2644499/) 
@@ -257,6 +276,7 @@ You Don’t Know About How Others See You [📖](https://www.goodreads.com/book/
 - [ ] The Denial of Death [📖](https://www.goodreads.com/book/show/2761.The_Denial_of_Death)
 - [ ] When: The Scientific Secrets of Perfect Timing [📖](https://www.goodreads.com/book/show/35412097-when)
 
+
 ## Habits & Lifestyle
 - [x] ‼️ **Mini Habits** [📖](https://www.goodreads.com/book/show/20567918-mini-habits) 
 - [x] Miracle Morning [📖](https://www.goodreads.com/book/show/17166225-the-miracle-morning)
@@ -267,6 +287,7 @@ You Don’t Know About How Others See You [📖](https://www.goodreads.com/book/
 - [ ] Reinvent yourself [📖](https://www.goodreads.com/book/show/33638850-reinvent-yourself)
 
 # Finances
+- [x] ⭐️ ‼️ **If you can: how millenials can get rich slowly** [📖](https://www.goodreads.com/book/show/21852252-if-you-can)
 - [ ] ⭐️ **The Little Book of Common Sense Investing** [📖](https://www.goodreads.com/book/show/171127.The_Little_Book_of_Common_Sense_Investing)
 - [ ] ⭐️ **All about Asset Allocation** [📖](https://www.goodreads.com/book/show/9316522-all-about-asset-allocation)
 - [ ] ⭐️ **Debunking Economics** [📖](https://www.goodreads.com/book/show/10303367-debunking-economics---revised-and-expanded-edition) 
@@ -316,6 +337,7 @@ You Don’t Know About How Others See You [📖](https://www.goodreads.com/book/
 - [ ] ⭐️ **The Deadline** [📖](https://www.goodreads.com/book/show/123716.The_Deadline)
 - [ ] ⭐️ **First, Break All the Rules** [📖](https://www.goodreads.com/book/show/50937.First_Break_All_the_Rules)
 - [ ] ⭐️ Essential Scrum: A Practical Guide to the Most Popular Agile Process [📖](https://www.goodreads.com/book/show/13663747-essential-scrum)
+- [ ] ⭐️ Scrum: The Art of Doing Twice the Work in Half the Time [📖](https://www.goodreads.com/book/show/19288230-scrum)
 - [ ] ⭐️ The Richest Man in Babylon [📖](https://www.goodreads.com/book/show/1052.The_Richest_Man_in_Babylon)
 - [ ] ⭐️ The Decision Book: Fifty Models for Strategic Thinking [📖](https://www.goodreads.com/book/show/9793361-the-decision-book)
 - [ ] ⭐️ The Challenger Sale: Taking Control of the Customer Conversation [📖](https://www.goodreads.com/book/show/11910902-the-challenger-sale)
@@ -348,7 +370,8 @@ You Don’t Know About How Others See You [📖](https://www.goodreads.com/book/
 - [ ] What They Don't Teach You at Harvard Business School: Notes from a Street-Smart Executive [📖](https://www.goodreads.com/book/show/467754.What_They_Don_t_Teach_You_at_Harvard_Business_School)
 - [ ] Creating a Software Engineering Culture [📖](https://www.goodreads.com/book/show/191913.Creating_a_Software_Engineering_Culture)
 - [ ] ⭐ The 21 Irrefutable Laws of Leadership: Follow Them and People Will Follow You [📖](https://www.goodreads.com/book/show/815716.The_21_Irrefutable_Laws_of_Leadership)
-- [ ]
+- [ ] Software, Faster [📖](https://leanpub.com/softwarefaster)
+- [ ] Better Software Faster [📖](https://www.goodreads.com/book/show/3013526-better-software-faster?)
 
 ## Religious artefacts
 - [ ] Enuma Elish [📖](https://www.goodreads.com/book/show/233420.Enuma_Elish) 
