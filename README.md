@@ -324,6 +324,7 @@ You Don’t Know About How Others See You [📖](https://www.goodreads.com/book/
 - [x] ⭐️ ‼️ **Start Small, Stay Small: A Developer's Guide to Launching a Startup** [📖](https://www.goodreads.com/book/show/9167158-start-small-stay-small)  
 - [x] ⭐️ ‼️ **E-myth revisited** [📖](https://www.goodreads.com/book/show/81948.The_E_Myth_Revisited) 
 - [x] ⭐️ **The ten day MBA** [📖](https://www.goodreads.com/book/show/32056475-the-10-day-mba)
+- [ ] ⭐ **Good to Great** [📖](https://www.goodreads.com/book/show/76865.Good_to_Great)
 - [ ] ⭐ Masters of Doom: How Two Guys Created an Empire and Transformed Pop Culture [📖](https://www.goodreads.com/book/show/222146.Masters_of_Doom)
 - [ ] ⭐ ‼️ **The art of Strategy: A Game Theorist's Guide to Success in Business and Life** [📖](https://www.goodreads.com/book/show/2423424.The_Art_of_Strategy)
 - [ ] ⭐️ ‼️ **Five languages of appreciation** [📖](https://www.goodreads.com/book/show/11259079-the-five-languages-of-appreciation-in-the-workplace)
