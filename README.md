@@ -16,6 +16,11 @@ TODO:
 - [x] Add all links
 - [x] Sort things (read/high-priority/other)
 
+Here is a list of book summary services/websites in case you need it:
+- [Actionable Books](https://www.actionablebooks.com/en-ca/summaries/)
+- [Deconstructing Excellence](http://www.deconstructingexcellence.com/)
+- [Blinkist](https://www.blinkist.com/)
+
 # Books
 
 ## Uncategorized 
