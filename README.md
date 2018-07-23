@@ -37,12 +37,12 @@ Here is a list of book summary services/websites in case you need it:
 ## Philosophy
 - [x] ‼️ *A Guide to the Good Life: The Ancient Art of Stoic Joy*[📖](https://www.goodreads.com/book/show/5617966-a-guide-to-the-good-life)
 - [x] ‼️ *The Choice* [📖](https://www.goodreads.com/book/show/4845427-the-choice)
+- [x] ⭐ Essentialism: The Disciplined Pursuit of Less [📖](https://www.goodreads.com/book/show/18077875-essentialism)
 - [ ] ⭐️️ Meditations [📖](https://www.goodreads.com/book/show/30659.Meditations)
 - [ ] Letters from a Stoic [📖](https://www.goodreads.com/book/show/97411.Letters_from_a_Stoic)
 - [ ] Dialogues and Essays [📖](https://www.goodreads.com/book/show/1933080.Dialogues_and_Essays)
 - [ ] The Myth of Sisyphus [📖](https://www.goodreads.com/book/show/91950.The_Myth_of_Sisyphus)
 - [ ] The Rebel: An Essay on Man in Revolt [📖](https://www.goodreads.com/book/show/11990.The_Rebel)
-- [ ] Essentialism: The Disciplined Pursuit of Less [📖](https://www.goodreads.com/book/show/18077875-essentialism)
 - [ ] The Tides of Mind [📖](https://www.goodreads.com/book/show/25622877-the-tides-of-mind)
 
 ## Mindset Enhancement
