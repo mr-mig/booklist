@@ -113,6 +113,7 @@ You Don’t Know About How Others See You [📖](https://www.goodreads.com/book/
 - [ ] ⭐ **Talking to Crazy: How to Deal with the Irrational and Impossible People in Your Life** [📖](https://www.goodreads.com/book/show/25644973-talking-to-crazy)
 - [ ] Never Eat Alone: And Other Secrets to Success, One Relationship at a Time [📖](https://www.goodreads.com/book/show/84699.Never_Eat_Alone)
 - [ ] Non violent communication [📖](https://www.goodreads.com/book/show/560861.Non_Violent_Communication)
+- [ ] Dynamic People Skills [📖](https://www.goodreads.com/book/show/1411202.Dynamic_People_Skills)
 
 
 ## UX & Design
