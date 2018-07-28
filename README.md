@@ -107,6 +107,7 @@ You Don’t Know About How Others See You [📖](https://www.goodreads.com/book/
 - [x] ️‼️ **Difficult Conversations: How to Discuss What Matters Most** [📖](https://www.goodreads.com/book/show/774088.Difficult_Conversations)
 - [x] ‼️ **How to win friends and influence people** [📖](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People)
 - [ ] ⭐️️️ ‼️ **The Social Skills Guidebook** [📖](https://www.goodreads.com/book/show/28728007-the-social-skills-guidebook)
+- [ ] ⭐️️️ ‼️ **People Skills** [📖](https://www.goodreads.com/book/show/65327.People_Skills)
 - [ ] ⭐️ **Crucial Conversations** [📖](https://www.goodreads.com/book/show/15014.Crucial_Conversations) 
 - [ ] ⭐️ **Getting Past No** [📖](https://www.goodreads.com/book/show/228331.Getting_Past_No)
 - [ ] ⭐ **Talking to Crazy: How to Deal with the Irrational and Impossible People in Your Life** [📖](https://www.goodreads.com/book/show/25644973-talking-to-crazy)
