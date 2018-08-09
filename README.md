@@ -264,6 +264,7 @@ You Don’t Know About How Others See You [📖](https://www.goodreads.com/book/
 - [x] Из связей в князи [📖](https://www.dropbox.com/s/tceqpxqbhv2s16i/%D0%98%D0%B7_%D1%81%D0%B2%D1%8F%D0%B7%D0%B5%D0%B9_%D0%B2_%D0%BA%D0%BD%D1%8F%D0%B7%D0%B8_%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC_%D0%A7%D0%B5%D1%80%D0%BD%D0%BE%D0%B2.pdf)
 - [x] How to Do What You Love & Earn What You’re Worth as a Programmer [📖](https://www.goodreads.com/book/show/13485352-how-to-do-what-you-love-earn-what-you-re-worth-as-a-programmer)
 - [x] 80000 hours: Career Guide [📖](https://80000hours.org/career-guide/)
+- [x] ⭐️ Peak: Secrets from the New Science of Expertise [📖](https://www.goodreads.com/book/show/26312997-peak)
 - [ ] ⭐️ ‼️ **Mastery** [📖](https://www.goodreads.com/book/show/13589182-mastery)
 - [ ] ⭐️ ‼️ **Pragmatic Thinkig and Learning** [📖](https://www.goodreads.com/book/show/3063393-pragmatic-thinking-and-learning)
 - [ ] ⭐️ **Better: A Surgeon’s Notes on Performance** [📖](https://www.goodreads.com/book/show/213233.Better) 
@@ -289,6 +290,7 @@ You Don’t Know About How Others See You [📖](https://www.goodreads.com/book/
 ## Habits & Lifestyle
 - [x] ‼️ **Mini Habits** [📖](https://www.goodreads.com/book/show/20567918-mini-habits) 
 - [x] Miracle Morning [📖](https://www.goodreads.com/book/show/17166225-the-miracle-morning)
+- [x] ⭐️ **The Power of Habit** [📖](https://www.goodreads.com/book/show/12609433-the-power-of-habit)
 - [ ] ️⭐️ **Algorithms to live by** [📖](https://www.goodreads.com/book/show/25666050-algorithms-to-live-by) 
 - [ ] ️⭐️ **Productivity Handbook** [📖](https://www.dropbox.com/s/kf39sos23qtwzax/Prouductivity%20Handbook.pdf?dl=0) 
 - [ ] 52 Small Changes: One Year to a Happier, Healthier You [📖](https://www.goodreads.com/book/show/13034840-52-small-changes)
