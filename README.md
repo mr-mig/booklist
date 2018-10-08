@@ -11,9 +11,6 @@ If you have something to suggest feel free to make a PR.
 
 TODO: 
 
-- [x] Add books from the shelve
-- [ ] Add read books 
-- [x] Add all links
 - [x] Sort things (read/high-priority/other)
 
 Here is a list of book summary services/websites in case you need it:
@@ -44,6 +41,8 @@ Here is a list of book summary services/websites in case you need it:
 - [ ] The Myth of Sisyphus [📖](https://www.goodreads.com/book/show/91950.The_Myth_of_Sisyphus)
 - [ ] The Rebel: An Essay on Man in Revolt [📖](https://www.goodreads.com/book/show/11990.The_Rebel)
 - [ ] The Tides of Mind [📖](https://www.goodreads.com/book/show/25622877-the-tides-of-mind)
+- [ ] The Tao of Puh [📖](https://www.goodreads.com/book/show/48757.The_Tao_of_Pooh)
+- [ ] The Tao of Physics [📖](https://www.goodreads.com/book/show/10238.The_Tao_of_Physics)
 
 ## Mindset Enhancement
 - [x] ‼️ **Learned Optimism** [📖](https://www.goodreads.com/book/show/26123.Learned_Optimism) 
@@ -165,6 +164,7 @@ You Don’t Know About How Others See You [📖](https://www.goodreads.com/book/
 - [ ] Scale [📖](https://www.goodreads.com/book/show/31670196-scale)
 
 ## Engineering & Programming
+- [x] ⭐️ ‼️ **Structure and Interpretation of Computer Programs** [📖](https://www.goodreads.com/book/show/43713.Structure_and_Interpretation_of_Computer_Programs) 
 - [x] ‼️ **Release it**! [📖](https://pragprog.com/book/mnee/release-it) 
 - [x] ‼️ **Practical Object-Oriented Desing with Ruby** [📖](http://www.poodr.com/)
 - [x] Building Microservices [📖](https://www.goodreads.com/book/show/22512931-building-microservices) 
@@ -187,7 +187,6 @@ You Don’t Know About How Others See You [📖](https://www.goodreads.com/book/
 - [ ] ⭐️ **Professor Frisby's Mostly Adequate Guide to Functional Programming** [📖](https://www.goodreads.com/book/show/25847352-professor-frisby-s-mostly-adequate-guide-to-functional-programming)
 - [ ] ⭐️️ ‼️️️ **Grokking Algorithms** [📖](https://www.goodreads.com/book/show/22847284-grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curio)
 - [ ] ⭐️ **Programming Beyond Practices** [📖](https://www.goodreads.com/book/show/29895093-programming-beyond-practices) 
-- [ ] ⭐️ ‼️ **Structure and Interpretation of Computer Programs** [📖](https://www.goodreads.com/book/show/43713.Structure_and_Interpretation_of_Computer_Programs) 
 - [ ] ⭐ Thinking Forth [📖](https://www.goodreads.com/book/show/2047737.Thinking_Forth)
 - [ ] ⭐️ ‼️ **Site Reliability Engineering** [📖](http://shop.oreilly.com/product/0636920041528.do) 
 - [ ] ⭐️ ‼️ **Working Effectively with Legacy Code** [📖](https://www.goodreads.com/book/show/44919.Working_Effectively_with_Legacy_Code)
@@ -335,6 +334,7 @@ You Don’t Know About How Others See You [📖](https://www.goodreads.com/book/
 - [x] ⭐️ ‼️ **Start Small, Stay Small: A Developer's Guide to Launching a Startup** [📖](https://www.goodreads.com/book/show/9167158-start-small-stay-small)  
 - [x] ⭐️ ‼️ **E-myth revisited** [📖](https://www.goodreads.com/book/show/81948.The_E_Myth_Revisited) 
 - [x] ⭐️ **The ten day MBA** [📖](https://www.goodreads.com/book/show/32056475-the-10-day-mba)
+- [x] The Five Dysfunctions of a Team [📖](https://www.goodreads.com/book/show/21343.The_Five_Dysfunctions_of_a_Team)
 - [ ] ⭐ **Good to Great** [📖](https://www.goodreads.com/book/show/76865.Good_to_Great)
 - [ ] ⭐ Masters of Doom: How Two Guys Created an Empire and Transformed Pop Culture [📖](https://www.goodreads.com/book/show/222146.Masters_of_Doom)
 - [ ] ⭐ ‼️ **The art of Strategy: A Game Theorist's Guide to Success in Business and Life** [📖](https://www.goodreads.com/book/show/2423424.The_Art_of_Strategy)
