@@ -337,6 +337,7 @@ You Don’t Know About How Others See You [📖](https://www.goodreads.com/book/
 - [x] ⭐️ ‼️ **E-myth revisited** [📖](https://www.goodreads.com/book/show/81948.The_E_Myth_Revisited) 
 - [x] ⭐️ **The ten day MBA** [📖](https://www.goodreads.com/book/show/32056475-the-10-day-mba)
 - [x] The Five Dysfunctions of a Team [📖](https://www.goodreads.com/book/show/21343.The_Five_Dysfunctions_of_a_Team)
+- [x] Не мешайте мне работать [📖](https://www.goodreads.com/book/show/10589139)
 - [ ] ⭐ **Good to Great** [📖](https://www.goodreads.com/book/show/76865.Good_to_Great)
 - [ ] ⭐ Masters of Doom: How Two Guys Created an Empire and Transformed Pop Culture [📖](https://www.goodreads.com/book/show/222146.Masters_of_Doom)
 - [ ] ⭐ ‼️ **The art of Strategy: A Game Theorist's Guide to Success in Business and Life** [📖](https://www.goodreads.com/book/show/2423424.The_Art_of_Strategy)
