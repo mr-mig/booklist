@@ -24,6 +24,7 @@ Here is a list of book summary services/websites in case you need it:
 - [x] ⭐ The Little Book of Hygge: The Danish Way to Live Well [📖](https://www.goodreads.com/book/show/30045683-the-little-book-of-hygge)
 - [x] Lisp Hackers [📖](https://www.goodreads.com/book/show/18129140-lisp-hackers)
 - [x] ⭐ What if [📖](https://www.goodreads.com/book/show/21413662-what-if)
+- [x] The Simpsons and Their Mathematical Secrets [📖](https://www.goodreads.com/book/show/17287021-the-simpsons-and-their-mathematical-secrets)
 - [ ] A short history of nearly everything [📖](https://www.goodreads.com/book/show/21.A_Short_History_of_Nearly_Everything)
 - [ ] Werner Siemens [📖](http://www.siemens.com/content/dam/internet/siemens-com/global/company/about/history/personalities/werner-von-siemens/2016-lifelines-werner-von-siemens-web.pdf)
 - [ ] 33 ступеньки в небо [📖](https://www.livelib.ru/book/1000447240-33-stupenki-v-nebo-anatolij-markusha)  
