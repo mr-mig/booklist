@@ -317,11 +317,12 @@ You Don’t Know About How Others See You [📖](https://www.goodreads.com/book/
 - [ ] ⭐️ **Man's search for meaning** [📖](https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning) 
 - [ ] Tao Te Ching [📖](https://www.goodreads.com/book/show/67896.Tao_Te_Ching) 
 
-## Marketing
+## Marketing & Sales
 - [x] The Burned-Out Blogger's Guide to PR [📖](https://www.goodreads.com/book/show/23212278-the-burned-out-blogger-s-guide-to-pr)
 - [x] ‼️ Crossing the Chasm [📖](https://www.goodreads.com/book/show/61329.Crossing_the_Chasm)
 - [x] ⭐️ **On Writing Well: The Classic Guide to Writing Nonfiction** [📖](https://www.goodreads.com/book/show/53343.On_Writing_Well) 
 - [x] ⭐️ **Пиши, Сокращай**  [📖](https://book.glvrd.ru/)  
+- [x] ⭐️ **How I Raised Myself from Failure to Success in Selling** [📖](https://www.goodreads.com/book/show/109515.How_I_Raised_Myself_From_Failure_to_Success_in_Selling)
 - [ ] ⭐️ ‼️ **The Professional Marketer** [📖](https://www.goodreads.com/book/show/23340620-the-professional-marketer)
 - [ ] ⭐️️️ **15 invaluable laws of growth** [📖](https://www.goodreads.com/book/show/13529210-the-15-invaluable-laws-of-growth) 
 - [ ] ⭐️️️ **The 22 Immutable Laws of Marketing** [📖](https://www.goodreads.com/book/show/33449.The_22_Immutable_Laws_of_Marketing) 
