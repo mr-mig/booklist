@@ -335,6 +335,7 @@ You Don’t Know About How Others See You [📖](https://www.goodreads.com/book/
 - [x] ‼️ **The Secrets of Consulting** [📖](https://www.goodreads.com/book/show/566213.The_Secrets_of_Consulting)
 - [x] The Lean Startup [📖](https://www.goodreads.com/book/show/10127019-the-lean-startup)
 - [x] ⭐️ ‼️ **Start Small, Stay Small: A Developer's Guide to Launching a Startup** [📖](https://www.goodreads.com/book/show/9167158-start-small-stay-small)  
+- [x] ⭐️ **The 100$ Startup** [📖](https://www.goodreads.com/book/show/12605157-the-100-startup)
 - [x] ⭐️ ‼️ **E-myth revisited** [📖](https://www.goodreads.com/book/show/81948.The_E_Myth_Revisited) 
 - [x] ⭐️ **The ten day MBA** [📖](https://www.goodreads.com/book/show/32056475-the-10-day-mba)
 - [x] The Five Dysfunctions of a Team [📖](https://www.goodreads.com/book/show/21343.The_Five_Dysfunctions_of_a_Team)
