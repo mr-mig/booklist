@@ -320,6 +320,7 @@ You Don’t Know About How Others See You [📖](https://www.goodreads.com/book/
 ## Marketing & Sales
 - [x] The Burned-Out Blogger's Guide to PR [📖](https://www.goodreads.com/book/show/23212278-the-burned-out-blogger-s-guide-to-pr)
 - [x] ‼️ Crossing the Chasm [📖](https://www.goodreads.com/book/show/61329.Crossing_the_Chasm)
+- [x] ‼️ **Made to Stick: Why Some Ideas Survive and Others Die** [📖](https://www.goodreads.com/book/show/69242.Made_to_Stick) 
 - [x] ⭐️ **On Writing Well: The Classic Guide to Writing Nonfiction** [📖](https://www.goodreads.com/book/show/53343.On_Writing_Well) 
 - [x] ⭐️ **Пиши, Сокращай**  [📖](https://book.glvrd.ru/)  
 - [x] ⭐️ **How I Raised Myself from Failure to Success in Selling** [📖](https://www.goodreads.com/book/show/109515.How_I_Raised_Myself_From_Failure_to_Success_in_Selling)
@@ -328,7 +329,6 @@ You Don’t Know About How Others See You [📖](https://www.goodreads.com/book/
 - [ ] ⭐️️️ **The 22 Immutable Laws of Marketing** [📖](https://www.goodreads.com/book/show/33449.The_22_Immutable_Laws_of_Marketing) 
 - [ ] ⭐️ **Positioning: The Battle for Your Mind** [📖](https://www.goodreads.com/book/show/10061378-positioning) 
 - [ ] ⭐️ **The Difference** [📖](https://www.goodreads.com/book/show/20746217-difference) 
-- [ ] Made to Stick: Why Some Ideas Survive and Others Die [📖](https://www.goodreads.com/book/show/69242.Made_to_Stick) 
 - [ ] Purple Cow: Transform Your Business By Being Remarkable [📖](https://www.goodreads.com/book/show/641604.Purple_Cow) 
 
 ## Management, Entrepreneurship, Strategy & Decision Making
