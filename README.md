@@ -290,6 +290,7 @@ You Don’t Know About How Others See You [📖](https://www.goodreads.com/book/
 
 ## Habits & Lifestyle
 - [x] ‼️ **Mini Habits** [📖](https://www.goodreads.com/book/show/20567918-mini-habits) 
+- [x] ⭐ ‼️ **Stick With It** [📖](https://www.goodreads.com/book/show/34017101-stick-with-it)
 - [x] Miracle Morning [📖](https://www.goodreads.com/book/show/17166225-the-miracle-morning)
 - [x] ⭐️ **The Power of Habit** [📖](https://www.goodreads.com/book/show/12609433-the-power-of-habit)
 - [ ] ️⭐️ **Algorithms to live by** [📖](https://www.goodreads.com/book/show/25666050-algorithms-to-live-by) 
