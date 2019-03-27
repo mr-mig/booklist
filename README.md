@@ -21,7 +21,6 @@ Here is a list of book summary services/websites in case you need it:
 # Books
 
 ## Uncategorized 
-- [x] ⭐ The Little Book of Hygge: The Danish Way to Live Well [📖](https://www.goodreads.com/book/show/30045683-the-little-book-of-hygge)
 - [x] Lisp Hackers [📖](https://www.goodreads.com/book/show/18129140-lisp-hackers)
 - [x] ⭐ What if [📖](https://www.goodreads.com/book/show/21413662-what-if)
 - [x] The Simpsons and Their Mathematical Secrets [📖](https://www.goodreads.com/book/show/17287021-the-simpsons-and-their-mathematical-secrets)
@@ -33,6 +32,8 @@ Here is a list of book summary services/websites in case you need it:
 - [ ] Confessions of a Terrible Husband: Lessons Learned From a Lumpy Couch [📖](https://www.goodreads.com/book/show/25781351-confessions-of-a-terrible-husband)
 
 ## Philosophy
+- [x] ⭐ The Little Book of Hygge: The Danish Way to Live Well [📖](https://www.goodreads.com/book/show/30045683-the-little-book-of-hygge)
+- [x] ⭐ The Little Book of Lykke [📖](https://www.goodreads.com/book/show/34879265-the-little-book-of-lykke)
 - [x] ‼️ *A Guide to the Good Life: The Ancient Art of Stoic Joy*[📖](https://www.goodreads.com/book/show/5617966-a-guide-to-the-good-life)
 - [x] ‼️ *The Choice* [📖](https://www.goodreads.com/book/show/4845427-the-choice)
 - [x] ⭐ Essentialism: The Disciplined Pursuit of Less [📖](https://www.goodreads.com/book/show/18077875-essentialism)
