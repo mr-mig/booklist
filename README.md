@@ -320,16 +320,16 @@ You Don’t Know About How Others See You [📖](https://www.goodreads.com/book/
 - [ ] Tao Te Ching [📖](https://www.goodreads.com/book/show/67896.Tao_Te_Ching) 
 
 ## Marketing & Sales
-- [x] The Burned-Out Blogger's Guide to PR [📖](https://www.goodreads.com/book/show/23212278-the-burned-out-blogger-s-guide-to-pr)
-- [x] ‼️ Crossing the Chasm [📖](https://www.goodreads.com/book/show/61329.Crossing_the_Chasm)
-- [x] ‼️ **Made to Stick: Why Some Ideas Survive and Others Die** [📖](https://www.goodreads.com/book/show/69242.Made_to_Stick) 
+- [x] ⭐️ **Positioning: The Battle for Your Mind** [📖](https://www.goodreads.com/book/show/10061378-positioning) 
 - [x] ⭐️ **On Writing Well: The Classic Guide to Writing Nonfiction** [📖](https://www.goodreads.com/book/show/53343.On_Writing_Well) 
 - [x] ⭐️ **Пиши, Сокращай**  [📖](https://book.glvrd.ru/)  
 - [x] ⭐️ **How I Raised Myself from Failure to Success in Selling** [📖](https://www.goodreads.com/book/show/109515.How_I_Raised_Myself_From_Failure_to_Success_in_Selling)
+- [x] The Burned-Out Blogger's Guide to PR [📖](https://www.goodreads.com/book/show/23212278-the-burned-out-blogger-s-guide-to-pr)
+- [x] ‼️ Crossing the Chasm [📖](https://www.goodreads.com/book/show/61329.Crossing_the_Chasm)
+- [x] ‼️ **Made to Stick: Why Some Ideas Survive and Others Die** [📖](https://www.goodreads.com/book/show/69242.Made_to_Stick) 
 - [ ] ⭐️ ‼️ **The Professional Marketer** [📖](https://www.goodreads.com/book/show/23340620-the-professional-marketer)
 - [ ] ⭐️️️ **15 invaluable laws of growth** [📖](https://www.goodreads.com/book/show/13529210-the-15-invaluable-laws-of-growth) 
 - [ ] ⭐️️️ **The 22 Immutable Laws of Marketing** [📖](https://www.goodreads.com/book/show/33449.The_22_Immutable_Laws_of_Marketing) 
-- [ ] ⭐️ **Positioning: The Battle for Your Mind** [📖](https://www.goodreads.com/book/show/10061378-positioning) 
 - [ ] ⭐️ **The Difference** [📖](https://www.goodreads.com/book/show/20746217-difference) 
 - [ ] Purple Cow: Transform Your Business By Being Remarkable [📖](https://www.goodreads.com/book/show/641604.Purple_Cow) 
 
