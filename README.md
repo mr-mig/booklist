@@ -316,7 +316,7 @@ You Don’t Know About How Others See You [📖](https://www.goodreads.com/book/
 - [x] The Way Of The Superior Man [📖](https://www.goodreads.com/book/show/79424.The_Way_Of_The_Superior_Man) 
 - [x] ⭐️ ‼️ **No More Mr. Nice Guy** [📖](https://www.goodreads.com/book/show/97642.No_More_Mr_Nice_Guy) 
 - [x] ️**Models** [📖](https://www.goodreads.com/book/show/12633800-models)
-- [ ] ⭐️ **Man's search for meaning** [📖](https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning) 
+- [x] ⭐️ **Man's search for meaning** [📖](https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning) 
 - [ ] Tao Te Ching [📖](https://www.goodreads.com/book/show/67896.Tao_Te_Ching) 
 
 ## Marketing & Sales
