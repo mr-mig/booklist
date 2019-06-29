@@ -29,6 +29,30 @@ Here is a list of book summary services/websites in case you need it:
 - [ ] A Little Life [📖](https://www.goodreads.com/book/show/22822858-a-little-life)
 - [ ] Confessions of a Terrible Husband: Lessons Learned From a Lumpy Couch [📖](https://www.goodreads.com/book/show/25781351-confessions-of-a-terrible-husband)
 
+## Thinking & Decision Making
+
+- [ ] ⭐ The Logical Thinking Process: A Systems Approach to Complex Problem Solving [📖](https://www.goodreads.com/book/show/2147388.The_Logical_Thinking_Process?ac=1&from_search=true)
+- [ ] A Leaders Framework for Decision Making [📖](https://www.researchgate.net/publication/5689229_A_Leader's_Framework_for_Decision_Making)
+- [ ] ⭐️ The Decision Book: Fifty Models for Strategic Thinking [📖](https://www.goodreads.com/book/show/9793361-the-decision-book)
+- [ ] ⭐️ ‼️ **The Art of Thinking Clearly** [📖](https://www.goodreads.com/book/show/16248196-the-art-of-thinking-clearly)
+- [ ] ⭐️️️ ‼️ **How to Solve It: A New Aspect of Mathematical Method** [📖](https://www.goodreads.com/book/show/192221.How_to_Solve_It)
+- [ ] ⭐️ ‼️ **Mindware: Tools for Smart Thinking** [📖](https://www.goodreads.com/book/show/24040556-mindware)
+- [ ] ️⭐️ **The 5 Elements of Effective Thinking** [📖](https://www.goodreads.com/book/show/14891980-the-5-elements-of-effective-thinking)
+- [ ] ⭐️ **Systems Thinking Made Simple** [📖](https://www.goodreads.com/book/show/25956449-systems-thinking-made-simple)
+- [ ] ️⭐️ **Thinking in Systems: A Primer** [📖](https://www.goodreads.com/book/show/3828902-thinking-in-systems)
+- [ ] Системноинженерное мышление [📖](https://www.dropbox.com/s/0sq0yph81uhui9p/systems_engineering_thinking_2015.pdf?dl=0)
+- [ ] Farsighted: How We Make the Decisions That Matter the Most [📖](https://www.goodreads.com/book/show/38769051-farsighted?ac=1&from_search=true)
+- [ ] ⭐️ ‼️ **The Book Of Why** [📖](https://www.goodreads.com/book/show/36204378-the-book-of-why)
+
+## Learning
+
+- [x] ⭐️ **Make it stick: the Science of Successful Learning** [📖](https://www.goodreads.com/book/show/18770267-make-it-stick)
+- [ ] ⭐️ ‼️ **Mastery** [📖](https://www.goodreads.com/book/show/13589182-mastery)
+- [ ] ⭐️ ‼️ **Pragmatic Thinkig and Learning** [📖](https://www.goodreads.com/book/show/3063393-pragmatic-thinking-and-learning)
+- [ ] ⭐️ **Better: A Surgeon’s Notes on Performance** [📖](https://www.goodreads.com/book/show/213233.Better)
+- [ ] ⭐️ **From Novice to Expert** [📖](https://www.goodreads.com/book/show/1368823.From_Novice_to_Expert)
+- [ ] ⭐️ **The Artist's Way: A Spiritual Path to Higher Creativity** [📖](https://www.goodreads.com/book/show/615570.The_Artist_s_Way)
+
 ## Philosophy
 
 - [x] ⭐ The Little Book of Hygge: The Danish Way to Live Well [📖](https://www.goodreads.com/book/show/30045683-the-little-book-of-hygge)
@@ -45,6 +69,9 @@ Here is a list of book summary services/websites in case you need it:
 - [ ] The Myth of Sisyphus [📖](https://www.goodreads.com/book/show/91950.The_Myth_of_Sisyphus)
 - [ ] The Rebel: An Essay on Man in Revolt [📖](https://www.goodreads.com/book/show/11990.The_Rebel)
 - [ ] The Tides of Mind [📖](https://www.goodreads.com/book/show/25622877-the-tides-of-mind)
+- [ ] ‼️ *A Little History of Philosophy* [📖](https://www.goodreads.com/book/show/11527504-a-little-history-of-philosophy?ac=1&from_search=true)
+
+## Mindset Enhancement
 
 - [x] ‼️ **Learned Optimism** [📖](https://www.goodreads.com/book/show/26123.Learned_Optimism)
 - [x] ⭐️️️ ‼️ **Feeling Good: The New Mood Therapy** [📖](https://www.goodreads.com/book/show/46674.Feeling_Good)
@@ -57,13 +84,9 @@ Here is a list of book summary services/websites in case you need it:
 - [x] Winter Blues [📖](https://www.goodreads.com/book/show/685532.Winter_Blues)
 - [x] ⭐️️ **The Art Of Loving** [📖](https://www.goodreads.com/book/show/14142.The_Art_of_Loving)
 - [ ] ⭐️ **Search Inside Yourself** [📖](https://www.goodreads.com/book/show/12921211-search-inside-yourself)
-- [ ] ⭐️️️ ‼️ **How to Solve It: A New Aspect of Mathematical Method** [📖](https://www.goodreads.com/book/show/192221.How_to_Solve_It)
 - [ ] ⭐️️️ ‼️ **The Joy of Living: Unlocking the Secret and Science of Happiness** [📖](https://www.goodreads.com/book/show/289448.The_Joy_of_Living)
-- [ ] ⭐️ ‼️ **The Art of Thinking Clearly** [📖](https://www.goodreads.com/book/show/16248196-the-art-of-thinking-clearly)
-- [ ] ⭐️ ‼️ **Mindware: Tools for Smart Thinking** [📖](https://www.goodreads.com/book/show/24040556-mindware)
 - [ ] ⭐️ **Fooled by Randomness** [📖](https://www.goodreads.com/book/show/38315.Fooled_by_Randomness)
 - [ ] ️⭐️ **The Wisdom of Crowds** [📖](https://www.goodreads.com/book/show/68143.The_Wisdom_of_Crowds)
-- [ ] ️⭐️ **The 5 Elements of Effective Thinking** [📖](https://www.goodreads.com/book/show/14891980-the-5-elements-of-effective-thinking)
 - [ ] ⭐️ **The Lean Mindset** [📖](https://www.goodreads.com/book/show/18635263-the-lean-mindset)
 - [ ] ⭐️ **Overcoming the Obstacles to Psychological Balance and Compassion** [📖](https://www.goodreads.com/book/show/3084431-emotional-awareness)
 - [ ] ⭐️️ **Influence: The Psychology of Persuasion** [📖](https://www.goodreads.com/book/show/28815.Influence)
@@ -86,7 +109,6 @@ Here is a list of book summary services/websites in case you need it:
 - [ ] The Defining Decade [📖](https://www.goodreads.com/book/show/13523061-the-defining-decade)
 - [ ] Апгрейд обезьяны [📖](https://www.ozon.ru/context/detail/id/3359223/)
 - [ ] Elite minds [📖](https://www.goodreads.com/book/show/18756719-elite-minds)
-- [ ] A Leaders Framework for Decision Making [📖](https://www.researchgate.net/publication/5689229_A_Leader's_Framework_for_Decision_Making)
 - [ ] The Political Brain [📖](https://www.goodreads.com/book/show/853648.The_Political_Brain)
 - [ ] Speeches that Changed the World [📖](https://www.goodreads.com/book/show/588050.Speeches_That_Changed_the_World)
 - [ ] Everything Is Obvious: Once You Know the Answer [📖](https://www.goodreads.com/book/show/9206187-everything-is-obvious)
@@ -101,6 +123,11 @@ You Don’t Know About How Others See You [📖](https://www.goodreads.com/book/
 - [ ] Quitter: Closing the Gap Between Your Day Job & Your Dream Job [📖](https://www.goodreads.com/book/show/10836740-quitter)
 - [ ] ⭐️ Do The Work [📖](https://www.goodreads.com/book/show/10645233-do-the-work)
 - [ ] Quiet: The Power of Introverts in a World That Can't Stop Talking [📖](https://www.goodreads.com/book/show/8520610-quiet)
+- [ ] Do It Tomorrow and Other Secrets of Time Management [📖](https://www.goodreads.com/book/show/3668.Do_It_Tomorrow_and_Other_Secrets_of_Time_Management)
+- [ ] The 1% Rule [📖](https://www.goodreads.com/book/show/38724966-the-1-rule?ac=1&from_search=true)
+- [ ] Time Warped: Unlocking the Mysteries of Time Perception [📖](https://www.goodreads.com/book/show/16248212-time-warped?ac=1&from_search=true)
+- [ ] Developer Hegemony [📖](https://www.goodreads.com/book/show/35051753-developer-hegemony?ac=1&from_search=true)
+- [ ] ️️️⭐️ Why Greatness Cannot Be Planned: The Myth of the Objective [📖](https://www.goodreads.com/book/show/25670869-why-greatness-cannot-be-planned?ac=1&from_search=true)
 
 ## Social Skills
 
@@ -112,7 +139,7 @@ You Don’t Know About How Others See You [📖](https://www.goodreads.com/book/
 - [ ] ⭐️ **Getting Past No** [📖](https://www.goodreads.com/book/show/228331.Getting_Past_No)
 - [ ] ⭐ **Talking to Crazy: How to Deal with the Irrational and Impossible People in Your Life** [📖](https://www.goodreads.com/book/show/25644973-talking-to-crazy)
 - [ ] Never Eat Alone: And Other Secrets to Success, One Relationship at a Time [📖](https://www.goodreads.com/book/show/84699.Never_Eat_Alone)
-- [ ] Non violent communication [📖](https://www.goodreads.com/book/show/560861.Non_Violent_Communication)
+- [ ] ⭐‼️ **Non Violent Communication** [📖](https://www.goodreads.com/book/show/560861.Non_Violent_Communication)
 - [ ] Dynamic People Skills [📖](https://www.goodreads.com/book/show/1411202.Dynamic_People_Skills)
 
 ## UX & Design
@@ -133,7 +160,6 @@ You Don’t Know About How Others See You [📖](https://www.goodreads.com/book/
 ## Coaching & Teaching
 
 - [x] The Coaching Habit: Say Less, Ask More [📖](https://www.goodreads.com/book/show/29342515-the-coaching-habit)
-- [x] ⭐️ **Make it stick: the Science of Successful Learning** [📖](https://www.goodreads.com/book/show/18770267-make-it-stick)
 - [x] ⭐️ HBR Guide to Coaching Employees [📖](https://hbr.org/product/hbr-guide-to-coaching-employees/13990-PBK-ENG)
 - [x] ⭐️ ‼️ Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman [📖](https://www.goodreads.com/book/show/5608045-apprenticeship-patterns)
 - [x] ⭐️ What Got You Here Won't Get You There [📖](https://www.goodreads.com/book/show/84525.What_Got_You_Here_Won_t_Get_You_There)
@@ -153,7 +179,6 @@ You Don’t Know About How Others See You [📖](https://www.goodreads.com/book/
 
 - [ ] ⭐️ ‼️ **The Sciences of the Artificial, Third Edition** [📖](https://www.goodreads.com/book/show/676046.The_Sciences_of_the_Artificial)
 - [ ] ⭐️ ‼️ **Geometry of Meaning: Semantics Based on Conceptual Spaces** [📖](https://www.goodreads.com/book/show/18699199-geometry-of-meaning)
-- [ ] ️⭐️ **Thinking in Systems: A Primer** [📖](https://www.goodreads.com/book/show/3828902-thinking-in-systems)
 - [ ] ️⭐️ **The art and craft of problem solving** [📖](https://www.goodreads.com/book/show/593458.The_Art_and_Craft_of_Problem_Solving)
 - [ ] ️⭐️ **Conceptual Mathematics: A First Introduction to Categories** [📖](https://www.goodreads.com/book/show/6117276-conceptual-mathematics)
 - [ ] ⭐️ **Paradoxes of Growth: Laws of Global Development of Humanity** [📖](https://www.goodreads.com/book/show/34638152-paradoxes-of-growth)
@@ -166,6 +191,7 @@ You Don’t Know About How Others See You [📖](https://www.goodreads.com/book/
 - [ ] Entropy [📖](http://pages.physics.cornell.edu/~sethna/StatMech/EntropyOrderParametersComplexity.pdf)
 - [ ] Золотой билет. P, NP и границы возможного [📖](https://www.goodreads.com/book/show/17130549-the-golden-ticket)
 - [ ] Scale [📖](https://www.goodreads.com/book/show/31670196-scale)
+- [ ] Smart Spacetime [📖](https://www.goodreads.com/book/show/44289555-smart-spacetime)
 
 ## Engineering & Programming
 
@@ -239,7 +265,6 @@ You Don’t Know About How Others See You [📖](https://www.goodreads.com/book/
 - [ ] Code Simplicity [📖](http://shop.oreilly.com/product/0636920022251.do)
 - [ ] Category Theory [📖](https://www.goodreads.com/book/show/2047855.Category_Theory)
 - [ ] Concurrent Programming in ML [📖](https://www.goodreads.com/book/show/302685.Concurrent_Programming_in_ML)
-- [ ] Системноинженерное мышление [📖](https://www.dropbox.com/s/0sq0yph81uhui9p/systems_engineering_thinking_2015.pdf?dl=0)
 - [ ] Feature-Oriented Software Product Lines [📖](http://www.springer.com/gb/book/9783642375200)
 - [ ] DevOps Handbook [📖](https://www.goodreads.com/book/show/26083308-the-devops-handbook)
 - [ ] Continuos Delivery [📖](https://www.goodreads.com/book/show/8686650-continuous-delivery)
@@ -256,6 +281,9 @@ You Don’t Know About How Others See You [📖](https://www.goodreads.com/book/
 - [ ] Building Evolutionary Architectures [📖](https://www.goodreads.com/book/show/35755822-building-evolutionary-architectures)
 - [ ] Programming In Martin Löf's Type Theory: An Introduction [📖](https://www.goodreads.com/book/show/3400116-programming-in-martin-l-f-s-type-theory)
 - [ ] The Zen Programmer [📖](https://www.goodreads.com/book/show/18988962-the-zen-programmer)
+- [ ] The Tao of Microservices [📖](https://www.goodreads.com/book/show/29932926-the-tao-of-microservices)
+- [ ] ⭐ Concepts, Techniques, and Models of Computer Programming [📖](https://www.goodreads.com/book/show/772585.Concepts_Techniques_and_Models_of_Computer_Programming)
+- [ ] Human Factors for Engineers [📖](https://www.goodreads.com/book/show/9517713-human-factors-for-engineers?ac=1&from_search=true)
 
 ## Career, Skill Acquisition, Personal Growth
 
@@ -270,12 +298,6 @@ You Don’t Know About How Others See You [📖](https://www.goodreads.com/book/
 - [x] How to Do What You Love & Earn What You’re Worth as a Programmer [📖](https://www.goodreads.com/book/show/13485352-how-to-do-what-you-love-earn-what-you-re-worth-as-a-programmer)
 - [x] 80000 hours: Career Guide [📖](https://80000hours.org/career-guide/)
 - [x] ⭐️ Peak: Secrets from the New Science of Expertise [📖](https://www.goodreads.com/book/show/26312997-peak)
-- [ ] ⭐️ ‼️ **Mastery** [📖](https://www.goodreads.com/book/show/13589182-mastery)
-- [ ] ⭐️ ‼️ **Pragmatic Thinkig and Learning** [📖](https://www.goodreads.com/book/show/3063393-pragmatic-thinking-and-learning)
-- [ ] ⭐️ **Better: A Surgeon’s Notes on Performance** [📖](https://www.goodreads.com/book/show/213233.Better)
-- [ ] ⭐️ **From Novice to Expert** [📖](https://www.goodreads.com/book/show/1368823.From_Novice_to_Expert)
-- [ ] ⭐️ **The Artist's Way: A Spiritual Path to Higher Creativity** [📖](https://www.goodreads.com/book/show/615570.The_Artist_s_Way)
-- [ ] ⭐️ **Systems Thinking Made Simple** [📖](https://www.goodreads.com/book/show/25956449-systems-thinking-made-simple)
 - [ ] Tools of Titans: The Tactics, Routines, and Habits of Billionaires, Icons, and World-Class Performers [📖](https://www.goodreads.com/book/show/31823677-tools-of-titans)
 - [ ] Big Magic: Creative Living Beyond Fear [📖](https://www.goodreads.com/book/show/24453082-big-magic)
 - [ ] Программирование. Ступени успешной карьеры [📖](https://www.ozon.ru/context/detail/id/2644499/)
@@ -290,6 +312,10 @@ You Don’t Know About How Others See You [📖](https://www.goodreads.com/book/
 - [ ] The Start-up of You [📖](https://www.goodreads.com/book/show/12030438-the-start-up-of-you)
 - [ ] The Denial of Death [📖](https://www.goodreads.com/book/show/2761.The_Denial_of_Death)
 - [ ] When: The Scientific Secrets of Perfect Timing [📖](https://www.goodreads.com/book/show/35412097-when)
+- [ ] Million Dollar Consulting [📖](https://www.goodreads.com/book/show/260218.Million_Dollar_Consulting?ac=1&from_search=true)
+- [ ] The Effective Engineer [📖](https://www.goodreads.com/book/show/25238425-the-effective-engineer?ac=1&from_search=true)
+- [ ] The Professional: A Manifesto for Business in the 21st Century [📖](https://www.goodreads.com/book/show/1625772.The_Professional?ac=1&from_search=true)
+- [ ] Cracking the PM Interview [📖](https://www.goodreads.com/book/show/19243347-cracking-the-pm-interview?ac=1&from_search=true)
 
 ## Habits & Lifestyle
 
@@ -305,6 +331,7 @@ You Don’t Know About How Others See You [📖](https://www.goodreads.com/book/
 
 ## Finance
 
+- [x] ⭐️ ‼️ **Your Money or Your Life** [📖](https://www.goodreads.com/book/show/78428.Your_Money_or_Your_Life?ac=1&from_search=true)
 - [x] ⭐️ ‼️ **If you can: how millenials can get rich slowly** [📖](https://www.goodreads.com/book/show/21852252-if-you-can)
 - [ ] ⭐️ **The Little Book of Common Sense Investing** [📖](https://www.goodreads.com/book/show/171127.The_Little_Book_of_Common_Sense_Investing)
 - [ ] ⭐️ **All about Asset Allocation** [📖](https://www.goodreads.com/book/show/9316522-all-about-asset-allocation)
@@ -312,7 +339,7 @@ You Don’t Know About How Others See You [📖](https://www.goodreads.com/book/
 - [ ] The intelligent investor [📖](https://www.goodreads.com/book/show/106835.The_Intelligent_Investor)
 - [ ] The Intelligent Asset Allocator [📖](https://www.goodreads.com/book/show/208722.The_Intelligent_Asset_Allocator)
 - [ ] ⭐️ The Four Pillars of Investing [📖](https://www.goodreads.com/book/show/79351.The_Four_Pillars_of_Investing)
-- [ ] Ваши деньги должны работать. Владимир Савенок. [📖](https://www.ozon.ru/context/detail/id/4946274/)
+- [ ] Ваши деньги должны работать [📖](https://www.ozon.ru/context/detail/id/4946274/)
 - [ ] The Undercover Economist [📖](https://www.goodreads.com/book/show/70420.The_Undercover_Economist)
 - [ ] ⭐️ How to Think About Money [📖](https://www.goodreads.com/book/show/31410857-how-to-think-about-money)
 
@@ -339,7 +366,7 @@ You Don’t Know About How Others See You [📖](https://www.goodreads.com/book/
 - [ ] ⭐️ **The Difference** [📖](https://www.goodreads.com/book/show/20746217-difference)
 - [ ] Purple Cow: Transform Your Business By Being Remarkable [📖](https://www.goodreads.com/book/show/641604.Purple_Cow)
 
-## Management, Entrepreneurship, Strategy & Decision Making
+## Management, Entrepreneurship, Strategy 
 
 - [x] ‼️ **The Secrets of Consulting** [📖](https://www.goodreads.com/book/show/566213.The_Secrets_of_Consulting)
 - [x] The Lean Startup [📖](https://www.goodreads.com/book/show/10127019-the-lean-startup)
@@ -365,7 +392,6 @@ You Don’t Know About How Others See You [📖](https://www.goodreads.com/book/
 - [ ] ⭐️ Essential Scrum: A Practical Guide to the Most Popular Agile Process [📖](https://www.goodreads.com/book/show/13663747-essential-scrum)
 - [ ] ⭐️ Scrum: The Art of Doing Twice the Work in Half the Time [📖](https://www.goodreads.com/book/show/19288230-scrum)
 - [ ] ⭐️ The Richest Man in Babylon [📖](https://www.goodreads.com/book/show/1052.The_Richest_Man_in_Babylon)
-- [ ] ⭐️ The Decision Book: Fifty Models for Strategic Thinking [📖](https://www.goodreads.com/book/show/9793361-the-decision-book)
 - [ ] ⭐️ The Challenger Sale: Taking Control of the Customer Conversation [📖](https://www.goodreads.com/book/show/11910902-the-challenger-sale)
 - [ ] ⭐️ Extreme Programming Explained [📖](https://www.goodreads.com/book/show/67833.Extreme_Programming_Explained)
 - [ ] ⭐️ Professional Software Development [📖](https://www.goodreads.com/book/show/93893.Professional_Software_Development)
@@ -398,8 +424,17 @@ You Don’t Know About How Others See You [📖](https://www.goodreads.com/book/
 - [ ] ⭐ The 21 Irrefutable Laws of Leadership: Follow Them and People Will Follow You [📖](https://www.goodreads.com/book/show/815716.The_21_Irrefutable_Laws_of_Leadership)
 - [ ] Software, Faster [📖](https://leanpub.com/softwarefaster)
 - [ ] Better Software Faster [📖](https://www.goodreads.com/book/show/3013526-better-software-faster?)
+- [ ] The 4 Disciplines of Execution [📖](https://www.goodreads.com/book/show/935736.The_Four_Disciplines_of_Execution?from_search=true)
+- [ ] The Princilples of Product Development Flow [📖](https://www.goodreads.com/book/show/6278270-the-principles-of-product-development-flow?ac=1&from_search=true)
+- [ ] ⭐ Mind of the Strategist: Business Planning for Competitive Advantage [📖](https://www.goodreads.com/book/show/206399.Mind_of_the_Strategist?ac=1&from_search=true)
+- [ ] Triad Power [📖](https://www.goodreads.com/book/show/730736.Triad_Power?ac=1&from_search=true)
+- [ ] The Geek Leader's Handbook [📖](https://www.goodreads.com/book/show/24063169-the-geek-leader-s-handbook?ac=1&from_search=true)
+- [ ] The 17 Indisputable Laws of Teamwork [📖](https://www.goodreads.com/book/show/874718.The_17_Indisputable_Laws_of_Teamwork?ac=1&from_search=true)
+- [ ] NoEstimates [📖](https://www.goodreads.com/book/show/30650836-noestimates)
+- [ ] Agile Estimating and Planning [📖](https://www.goodreads.com/book/show/9267.Agile_Estimating_and_Planning?ac=1&from_search=true)
+- [ ] Radical Candor [📖](https://www.goodreads.com/book/show/29939161-radical-candor?ac=1&from_search=true)
 
-## Religious artefacts
+## Religious artifacts
 
 - [ ] Enuma Elish [📖](https://www.goodreads.com/book/show/233420.Enuma_Elish)
 - [ ] The Mahabharatha [📖](https://www.goodreads.com/book/show/10967733-the-mahabharatha)
