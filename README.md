@@ -128,7 +128,7 @@ You Don’t Know About How Others See You [📖](https://www.goodreads.com/book/
 - [ ] Time Warped: Unlocking the Mysteries of Time Perception [📖](https://www.goodreads.com/book/show/16248212-time-warped?ac=1&from_search=true)
 - [ ] Developer Hegemony [📖](https://www.goodreads.com/book/show/35051753-developer-hegemony?ac=1&from_search=true)
 - [ ] ️️️⭐️ Why Greatness Cannot Be Planned: The Myth of the Objective [📖](https://www.goodreads.com/book/show/25670869-why-greatness-cannot-be-planned?ac=1&from_search=true)
-
+- [ ] ️️️ Rich Dad, Poor Dad  [📖](https://www.goodreads.com/book/show/69571.Rich_Dad_Poor_Dad)
 ## Social Skills
 
 - [x] ️‼️ **Difficult Conversations: How to Discuss What Matters Most** [📖](https://www.goodreads.com/book/show/774088.Difficult_Conversations)
